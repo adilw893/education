@@ -19,6 +19,9 @@
 ## Microsoft Power BI
 
 ### Books
+- [ ] The Definitive Guide to DAX - Marco Russo and Alberto Ferrari (PDF)
+- [ ] Supercharge Power BI - Matt Allington (PDF)
+- [ ] Microsoft Power BI Cookbook - Brett Powell (PDF)
 
 ### Courses
 
