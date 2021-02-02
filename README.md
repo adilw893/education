@@ -1,5 +1,19 @@
-# Educational Resources
-Books, courses, etc.
+# Educational resources
+## Books, courses, etc.
+
+## Current priorities
+1. finish what you've started:
+  - reading The Pragmatic Programmer (ch 5, 6, 7, 8)
+  - Coursera - Neural Networks & Deep Learning (wk 3, 4)
+2. learn to use GitHub
+  - practice, play around
+  - courses
+  - articles/tutorials
+3. master Markdown basics (for GitHub, Spark notebooks, Rmd files)
+4. work in Power BI
+5. learn more about data visualization in general - read Tufte's book
+6. read ggplot2 book
+7. read Strunk & White
 
 ## Machine Learning
 ### Cloud Computing
