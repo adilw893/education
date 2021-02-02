@@ -54,7 +54,7 @@
 
 ## Computer Programming
 ### General
-### R
+### [R](https://github.com/adilw893/education/tree/main/R)
 ### Python
 - numpy
 - pandas
@@ -86,10 +86,10 @@
 ## Foreign Languages
 ### Spanish
 ### Italian
-Duolingo
-Drops
-podcasts
-Ecco textbook
+- Duolingo
+- Drops
+- podcasts
+- Ecco textbook
 ### Russian
 ### Irish
 
@@ -97,19 +97,19 @@ Ecco textbook
 
 ## Actuarial Science
 ### Books
-review ones from my personal library, as well as current actuarial exam syllabi
+- review ones from my personal library, as well as current actuarial exam syllabi
 ### Websites
 
 ---
 
 ## Sports Analytics
 ### Baseball
-Jonathan Judge articles
-FanGraphs
-Baseball Prospectus
-books in my library
+- Jonathan Judge articles
+- FanGraphs
+- Baseball Prospectus
+- books in my library
 
 ### Football
-PFF
-football outsiders
-new R packages
+- PFF
+- football outsiders
+- new R packages
