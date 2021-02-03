@@ -11,7 +11,8 @@
   - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
   - practice, play around
 3. master [Markdown](https://github.com/adilw893/education/tree/main/markdown) basics (for GitHub, Spark notebooks, Rmd files, etc.)
-  - **read The Markdown Guide (PDF: ch 1, 2, 3, 4, 5)**
+  - **read The Markdown Guide (PDF: ch 3 Basic Syntax, 4 Extended Syntax)**
+  - **[companion website](https://www.markdownguide.org/basic-syntax/)**
   - practice, play around
 4. learn more about [data visualization](https://github.com/adilw893/education/tree/main/data-visualization) in general
   - **read The Visual Display of Quantitative Information (PDF)**
