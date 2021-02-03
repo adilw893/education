@@ -9,18 +9,18 @@
 ## Publications
 
 ### SOA
-  - [The Actuary] (https://theactuarymagazine.org/)
+  - [The Actuary](https://theactuarymagazine.org/)
   - [NAAJ](https://www.tandfonline.com/loi/uaaj20)
   - [SOA Digital Edition Newsletters](https://sections.soa.org/publication/?i=598585)
     - [Health Watch](https://sections.soa.org/publication/?m=59562&l=1)
     - [Predictive Analytics and Futurism](https://sections.soa.org/publication/?m=55423&l=1)
-    - [CompAct] (https://sections.soa.org/publication/?m=59905&l=1)
+    - [CompAct](https://sections.soa.org/publication/?m=59905&l=1)
 
 ### AAA
   - [Contingencies](http://contingencies.org/)
   - [HealthCheck](https://www.actuary.org/category/newsletter/healthcheck)
   - [StateScan Quarterly](https://www.actuary.org/content/state-legislative-portal)
-  - [This Week] (https://www.actuary.org/category/newsletter/week)
+  - [This Week](https://www.actuary.org/category/newsletter/week)
   - [Actuarial Update](https://www.actuary.org/category/publications/actuarial-update)
 
 ---
