@@ -1,5 +1,5 @@
-# Matt Cone's Markdown [cheat sheet](https://www.markdownguide.org/cheat-sheet/)
-AJD - some extended syntax features might not be supported by GitHub Flavored Markdown (GFM)...
+# Matt Cone's [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+*AJD - some extended syntax features might not be supported by GitHub Flavored Markdown (GFM)...*
 
 # Markdown Cheat Sheet
 
@@ -79,19 +79,19 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 ```
 
 ### Footnote
-AJD - not supported by GFM?
+*AJD - not supported by GFM?*
 
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
 ### Heading ID
-AJD - not supported by GFM?
+*AJD - not supported by GFM?*
 
 ### My Great Heading {#custom-id}
 
 ### Definition List
-AJD - not supported by GFM?
+*AJD - not supported by GFM?*
 
 term
 : definition
