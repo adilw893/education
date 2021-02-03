@@ -1,5 +1,4 @@
 # Educational resources
-## books, courses, etc.
 
 ---
 
@@ -27,14 +26,12 @@
 - AWS
 - Apache Spark
 - Databricks
-
 ### Deep Learning / Neural Networks
 - General
 - PyTorch
 - TensorFlow?
 - Theano?
 - an R implementation? Keras???
-
 ### Reinforcement Learning
 ### Natural Language Processing (NLP)
 ### Other Machine Learning Algorithms
@@ -63,10 +60,8 @@
 - numpy
 - pandas
 - scikit-learn
-
 ### [Git](https://github.com/adilw893/education/tree/main/git)
 - GitHub
-
 ### [Markdown](https://github.com/adilw893/education/tree/main/markdown)
 
 ---
@@ -82,7 +77,6 @@
 ### [Writing](https://github.com/adilw893/education/tree/main/writing)
 ### Speaking
 - Toastmasters?
-
 ### Project Management
 ### Vocabulary
 ### speed-reading/comprehension
@@ -92,16 +86,15 @@
 
 ---
 
-## Foreign Languages](https://github.com/adilw893/education/tree/main/foreign-languages)
-### Spanish
+## [Foreign Languages](https://github.com/adilw893/education/tree/main/foreign-languages)
+### [Spanish](https://github.com/adilw893/education/tree/main/foreign-languages/spanish)
 ### [Italian](https://github.com/adilw893/education/tree/main/foreign-languages/italian)
 - **Duolingo**
 - **Drops**
 - podcasts
 - Ecco textbook
-
-### Russian
-### Irish
+### [Russian](https://github.com/adilw893/education/tree/main/foreign-languages/russian)
+### [Irish](https://github.com/adilw893/education/tree/main/foreign-languages/irish)
 
 ---
 
