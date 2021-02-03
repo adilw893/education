@@ -4,13 +4,13 @@
 
 ## Books
 - [ ] **The Markdown Guide - Matt Cone (PDF)**
-  [companion site](https://www.markdownguide.org/) included in [links](https://github.com/adilw893/education/tree/main/markdown#links) below
-  created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 2004, WYSIWYG editor (what you see is what you get)
+  - [companion site](https://www.markdownguide.org/) included in [links](https://github.com/adilw893/education/tree/main/markdown#links) below
+  - created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 2004, WYSIWYG editor (what you see is what you get)
   1. create file with a `.md` or `.markdown` extension
   2. open file in a Markdown app
   3. convert Markdown file to an HTML document
   4. view HTML file in a web browser or use app to convert to another file format (like PDF)
-  [Markdown Cheat Sheet](https://github.com/adilw893/education/blob/main/markdown/markdown-cheat-sheet.md)
+  - [Markdown Cheat Sheet](https://github.com/adilw893/education/blob/main/markdown/markdown-cheat-sheet.md)
   
 - [ ] [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
 - [ ] [R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
