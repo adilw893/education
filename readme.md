@@ -4,7 +4,7 @@
 
 ## Current priorities
 **1. finish what you've started:**
-  - **read The Pragmatic Programmer (PDF: ch 5, 6, 7, 8)**
+  - **read The Pragmatic Programmer (PDF: ch 6, 7, 8)**
   - **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
 2. learn to use [GitHub](https://github.com/adilw893/education/tree/main/git)
   - **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
@@ -39,9 +39,9 @@
 ---
 
 ## [Data Visualization](https://github.com/adilw893/education/tree/main/data-visualization)
-### General
-### ggplot2
-### Power BI
+### [General](https://github.com/adilw893/education/tree/main/data-visualization/general)
+### [ggplot2](https://github.com/adilw893/education/tree/main/data-visualization/ggplot2)
+### [Power BI](https://github.com/adilw893/education/tree/main/data-visualization/power-bi)
 ### matplotlib?
 ### Tableau?
 ### HTML/CSS?
@@ -78,10 +78,15 @@
 ### Speaking
 - Toastmasters?
 ### Project Management
+- hard copy book
 ### Vocabulary
-### speed-reading/comprehension
+### Speed-reading?
 ### Presentations
-### time management/productivity
+### Productivity / Time Management
+### Consultative Selling
+- PACE
+### Negotiations
+- Influence book
 
 
 ---
@@ -99,8 +104,6 @@
 ---
 
 ## [Actuarial Science](https://github.com/adilw893/education/blob/main/actuarial-science)
-### Books
-### Websites
 
 ---
 
