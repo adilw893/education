@@ -3,7 +3,7 @@
 ---
 
 ## Books
-- [ ] The Markdown Guide - Matt Cone (PDF)
+- [ ] **The Markdown Guide - Matt Cone (PDF)**
 - [ ] [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
 - [ ] [R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 - [ ] [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/)

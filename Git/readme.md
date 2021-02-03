@@ -1,8 +1,12 @@
+# Git Resources
+
+Focus on GitHub for now, not necessarily Git...
+
 ## Books
 
-- [ ] Git Community Book (PDF)
-- [ ] [Pro Git](https://git-scm.com/book/en/v2) (and PDF)
-- [ ] [20 free PDF books!](https://www.ubuntupit.com/best-git-books-for-newbie-and-professional-programmers/)
+*- [ ] Git Community Book (PDF)*
+*- [ ] [Pro Git](https://git-scm.com/book/en/v2) (and PDF)*
+*- [ ] [20 free PDF books!](https://www.ubuntupit.com/best-git-books-for-newbie-and-professional-programmers/)*
 
 ---
 
@@ -30,6 +34,8 @@
 
 ## Links
 
-- [ ] https://lab.github.com/
+- [ ] **[GitHub Learning Lab](https://lab.github.com/)**
+	- [ ] **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
+	- [ ] [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
 - [ ] https://www.edureka.co/blog/git-tutorial/
 - [ ] https://www.youtube.com/watch?v=xuB1Id2Wxak

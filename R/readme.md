@@ -1,3 +1,5 @@
+# R Programming Resources
+
 ## Books
 
 - [ ] [R for Data Science - Hadley Wickham & Garrett Grolemund](https://r4ds.had.co.nz/)
@@ -7,6 +9,15 @@
 - [ ] [R Packages - Hadley Wickham & Jenny Bryan](https://r-pkgs.org/)
 - [ ] [Advanced R - Hadley Wickham](https://adv-r.hadley.nz/)
 
+---
+
 ## Courses
 
+---
+
 ## Links
+
+---
+
+## RStudio Themes
+

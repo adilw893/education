@@ -5,17 +5,19 @@
 
 ## Current priorities
 **1. finish what you've started:**
-  - **reading The Pragmatic Programmer (ch 5, 6, 7, 8)**
+  - **read The Pragmatic Programmer (ch 5, 6, 7, 8)**
   - **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
-2. learn to use GitHub
+2. learn to use [GitHub](https://github.com/adilw893/education/tree/main/git)
+  - **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
+  - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
   - practice, play around
-  - courses
-  - articles/tutorials
-3. master Markdown basics (for GitHub, Spark notebooks, Rmd files)
-4. figure out Power BI
-5. learn more about data visualization in general - read Tufte's book
-6. read ggplot2 book
-7. read Strunk & White
+3. master [Markdown](https://github.com/adilw893/education/tree/main/markdown) basics (for GitHub, Spark notebooks, Rmd files, etc.)
+  - **read The Markdown Guide**
+  - practice, play around
+4. learn more about [data visualization](https://github.com/adilw893/education/tree/main/data-visualization) in general
+  - **read The Visual Display of Quantitative Information**
+5. [writing](https://github.com/adilw893/education/tree/main/writing) refresher
+  - **read The Elements of Style**
 
 ---
 
@@ -25,19 +27,21 @@
 - AWS
 - Apache Spark
 - Databricks
+
 ### Deep Learning / Neural Networks
 - General
 - PyTorch
 - TensorFlow?
 - Theano?
 - an R implementation? Keras???
+
 ### Reinforcement Learning
 ### Natural Language Processing (NLP)
 ### Other Machine Learning Algorithms
 
 ---
 
-## Data Visualization
+## [Data Visualization](https://github.com/adilw893/education/tree/main/data-visualization)
 ### General
 ### ggplot2
 ### Power BI
@@ -54,14 +58,16 @@
 
 ## Computer Programming
 ### General
-### [R](https://github.com/adilw893/education/tree/main/R)
-### Python
+### [R](https://github.com/adilw893/education/tree/main/r)
+### [Python](https://github.com/adilw893/education/tree/main/python)
 - numpy
 - pandas
 - scikit-learn
-### Git
+
+### [Git](https://github.com/adilw893/education/tree/main/git)
 - GitHub
-### Markdown
+
+### [Markdown](https://github.com/adilw893/education/tree/main/markdown)
 
 ---
 
@@ -72,24 +78,27 @@
 ---
 
 ## Soft Skills
-### writing
-### speaking
+### Writing
+### Speaking
 - Toastmasters?
-### vocabulary
+
+### Project Management
+### Vocabulary
 ### speed-reading/comprehension
-### presentations
+### Presentations
 ### time management/productivity
-### project management
+
 
 ---
 
 ## Foreign Languages
 ### Spanish
 ### Italian
-- Duolingo
-- Drops
+- **Duolingo**
+- **Drops**
 - podcasts
 - Ecco textbook
+
 ### Russian
 ### Irish
 
@@ -98,6 +107,7 @@
 ## Actuarial Science
 ### Books
 - review ones from my personal library, as well as current actuarial exam syllabi
+
 ### Websites
 
 ---
