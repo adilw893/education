@@ -4,14 +4,14 @@
 
 ## Current priorities
 **1. finish what you've started:**
-  - **read The Pragmatic Programmer (PDF, ch 5, 6, 7, 8)**
+  - **read The Pragmatic Programmer (PDF: ch 5, 6, 7, 8)**
   - **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
 2. learn to use [GitHub](https://github.com/adilw893/education/tree/main/git)
   - **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
   - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
   - practice, play around
 3. master [Markdown](https://github.com/adilw893/education/tree/main/markdown) basics (for GitHub, Spark notebooks, Rmd files, etc.)
-  - **read The Markdown Guide (PDF)**
+  - **read The Markdown Guide (PDF: ch 1, 2, 3, 4, 5)**
   - practice, play around
 4. learn more about [data visualization](https://github.com/adilw893/education/tree/main/data-visualization) in general
   - **read The Visual Display of Quantitative Information (PDF)**
@@ -98,10 +98,8 @@
 
 ---
 
-## Actuarial Science
+## [Actuarial Science](https://github.com/adilw893/education/blob/main/actuarial-science)
 ### Books
-- review ones from my personal library, as well as current actuarial exam syllabi
-
 ### Websites
 
 ---
