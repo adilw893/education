@@ -1,5 +1,7 @@
 # Actuarial resources
 
+---
+
 ## Books
 - make list from my hard copy library
 - review current exam syllabi
@@ -40,7 +42,7 @@
 ## Podcasts
 - SOA
 - SOA Research Insights
-- Milliman
+- Milliman Critical Point
 
 ---
 
@@ -56,8 +58,10 @@
   - [Health research](https://www.soa.org/research/topics/health-topic-landing/)
   - [Predictive Analytics research](https://www.soa.org/research/topics/pred-analytics-topic-landing/)
 - [AAA](https://www.actuary.org/)
-- [Milliman]()
-- [KFF]()
+- [Milliman](https://us.milliman.com/en/)
+  - [Health Insight](https://us.milliman.com/en/insight/Health-insight)
+  - [Healthcare Town Hall blog](https://www.healthcaretownhall.com/)
+- [KFF](http://kff.org/)
 - [46brooklyn](https://www.46brooklyn.com/)
 - [Mostly Medicaid]()
 - [Health Affairs](https://www.healthaffairs.org/)
