@@ -4,6 +4,12 @@
 
 ## Books
 - [ ] **The Markdown Guide - Matt Cone (PDF)**
+  created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 2004, WYSIWYG editor (what you see is what you get)
+  1. create file with a `.md` or `.markdown` extension
+  2. open file in a Markdown app
+  3. convert Markdown file to an HTML document
+  4. view HTML file in a web browser or use app to convert to another file format (like PDF)
+  
 - [ ] [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
 - [ ] [R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 - [ ] [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/)
@@ -32,17 +38,25 @@
 ---
 
 ## Links
-- [ ] https://www.markdowntutorial.com/
-- [ ] https://www.youtube.com/watch?v=6A5EpqqDOdk
+- [ ] **[The Markdown Guide](https://www.markdownguide.org/): companion site to Matt Cone's book above**
+- [ ] [Ghost Guide to Markdown](https://ghost.org/changelog/markdown/): tutorial from [Ghost](https://ghost.org/), a free blogging platform / content management system (CMS)
+- [ ] [Dillinger](https://dillinger.io/): online Markdown editor
+- [ ] [John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/): creator of Markdown
+- [ ] [Markdown Tutorial](https://www.markdowntutorial.com/)
+- [ ] [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [ ] [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
+- [ ] [Leanpub](https://leanpub.com/): self-publish Markdown-formatted ebooks
+- [ ] [How I wrote and published my novel using only open source tools](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca): blog on self-publishing experience
+- [ ] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text
+- [ ] [GitHub Pages](https://pages.github.com/): turns Markdown files into a website and hosts them for free (uses [Jekyll](https://jekyllrb.com/) as the backend)
+- [ ] [Jekyll](https://jekyllrb.com/): static site generator that takes Markdown files and builds an HTML website ([GitHub Pages](https://pages.github.com/) provides free hosting for Jekyll-generated websites)
+
 - [ ] https://guides.github.com/features/mastering-markdown/
-- [ ] https://daringfireball.net/projects/markdown/basics
+- [ ] https://www.youtube.com/watch?v=6A5EpqqDOdk
 - [ ] https://five.squarespace.com/display/ShowHelp?section=Markdown
 - [ ] https://chibicode.github.io/markdown-toolbar-cheatsheet/
 - [ ] http://code.ahren.org/markdown-cheatsheet
-- [ ] https://ghost.org/changelog/markdown/
-- [ ] https://www.markdownguide.org/
 - [ ] https://www.toptal.com/web/markdown-the-writing-tool-for-software-developers
 - [ ] https://www.abhaytalreja.me/markdown-crash-course-learn-markdown-in-30-minutes-markdown-cheatsheet/
 - [ ] https://medium.com/programmers-developers/building-books-with-markdown-using-pandoc-f0d19df7b2ca
-- [ ] https://dillinger.io/
 - [ ] https://learn.getgrav.org/17/content/markdown
