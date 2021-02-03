@@ -5,19 +5,19 @@
 
 ## Current priorities
 **1. finish what you've started:**
-  - **read The Pragmatic Programmer (ch 5, 6, 7, 8)**
+  - **read The Pragmatic Programmer (PDF, ch 5, 6, 7, 8)**
   - **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
 2. learn to use [GitHub](https://github.com/adilw893/education/tree/main/git)
   - **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
   - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
   - practice, play around
 3. master [Markdown](https://github.com/adilw893/education/tree/main/markdown) basics (for GitHub, Spark notebooks, Rmd files, etc.)
-  - **read The Markdown Guide**
+  - **read The Markdown Guide (PDF)**
   - practice, play around
 4. learn more about [data visualization](https://github.com/adilw893/education/tree/main/data-visualization) in general
-  - **read The Visual Display of Quantitative Information**
+  - **read The Visual Display of Quantitative Information (PDF)**
 5. [writing](https://github.com/adilw893/education/tree/main/writing) refresher
-  - **read The Elements of Style**
+  - **read The Elements of Style (PDF)**
 
 ---
 
@@ -57,8 +57,8 @@
 ---
 
 ## Computer Programming
-### General
-### [R](https://github.com/adilw893/education/tree/main/r)
+### [General](https://github.com/adilw893/education/tree/main/computer-programming)
+### [R](https://github.com/adilw893/education/tree/main/r-programming)
 ### [Python](https://github.com/adilw893/education/tree/main/python)
 - numpy
 - pandas
@@ -74,11 +74,12 @@
 ## Math
 ### Linear Algebra
 ### Optimization
+### Statistics
 
 ---
 
 ## Soft Skills
-### Writing
+### [Writing](https://github.com/adilw893/education/tree/main/writing)
 ### Speaking
 - Toastmasters?
 
@@ -91,9 +92,9 @@
 
 ---
 
-## Foreign Languages
+## Foreign Languages](https://github.com/adilw893/education/tree/main/foreign-languages)
 ### Spanish
-### Italian
+### [Italian](https://github.com/adilw893/education/tree/main/foreign-languages/italian)
 - **Duolingo**
 - **Drops**
 - podcasts
