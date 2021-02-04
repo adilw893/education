@@ -6,17 +6,16 @@
 **1. finish what you've started:**
   - **read The Pragmatic Programmer (PDF: ch 6, 7, 8)**
   - **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
-3. master [Markdown](./tree/main/markdown) basics
-  - **read The Markdown Guide (PDF: ch 4 Extended Syntax)**
-  - **[companion website](https://www.markdownguide.org/basic-syntax/)**
+2. master [Markdown](./markdown) basics
+  - **read The Markdown Guide (PDF: ch 4 Extended Syntax) and [companion website](https://www.markdownguide.org/basic-syntax/)**
   - practice, play around
-2. learn to use [GitHub](https://github.com/adilw893/education/tree/main/git)
+3. learn to use [GitHub](./git)
   - **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
   - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
   - practice, play around
-4. learn more about [data visualization](https://github.com/adilw893/education/tree/main/data-visualization) in general
+4. learn more about [data visualization](./data-visualization) in general
   - **read The Visual Display of Quantitative Information (PDF)**
-5. [writing](https://github.com/adilw893/education/tree/main/writing) refresher
+5. [writing](./writing) refresher
   - **read The Elements of Style (PDF)**
 
 ---
@@ -39,10 +38,10 @@
 
 ---
 
-## [Data Visualization](https://github.com/adilw893/education/tree/main/data-visualization)
-### [General](https://github.com/adilw893/education/tree/main/data-visualization/general)
-### [ggplot2](https://github.com/adilw893/education/tree/main/data-visualization/ggplot2)
-### [Power BI](https://github.com/adilw893/education/tree/main/data-visualization/power-bi)
+## [Data Visualization](./data-visualization)
+### [General](./data-visualization/general)
+### [ggplot2](./data-visualization/ggplot2)
+### [Power BI](./data-visualization/power-bi)
 ### matplotlib?
 ### Tableau?
 ### HTML/CSS?
@@ -55,15 +54,15 @@
 ---
 
 ## Computer Programming
-### [General](https://github.com/adilw893/education/tree/main/computer-programming)
-### [R](https://github.com/adilw893/education/tree/main/r-programming)
-### [Python](https://github.com/adilw893/education/tree/main/python)
+### [General](./computer-programming)
+### [R](./r-programming)
+### [Python](./python)
 - numpy
 - pandas
 - scikit-learn
-### [Git](https://github.com/adilw893/education/tree/main/git)
+### [Git](./git)
 - GitHub
-### [Markdown](https://github.com/adilw893/education/tree/main/markdown)
+### [Markdown](./markdown)
 
 ---
 
@@ -75,7 +74,7 @@
 ---
 
 ## Soft Skills
-### [Writing](https://github.com/adilw893/education/tree/main/writing)
+### [Writing](./writing)
 ### Speaking
 - Toastmasters?
 ### Project Management
@@ -92,19 +91,19 @@
 
 ---
 
-## [Foreign Languages](https://github.com/adilw893/education/tree/main/foreign-languages)
-### [Spanish](https://github.com/adilw893/education/tree/main/foreign-languages/spanish)
-### [Italian](https://github.com/adilw893/education/tree/main/foreign-languages/italian)
+## [Foreign Languages](./foreign-languages)
+### [Spanish](./foreign-languages/spanish)
+### [Italian](./foreign-languages/italian)
 - **Duolingo**
 - **Drops**
 - podcasts
 - Ecco textbook
-### [Russian](https://github.com/adilw893/education/tree/main/foreign-languages/russian)
-### [Irish](https://github.com/adilw893/education/tree/main/foreign-languages/irish)
+### [Russian](./foreign-languages/russian)
+### [Irish](./foreign-languages/irish)
 
 ---
 
-## [Actuarial Science](https://github.com/adilw893/education/blob/main/actuarial-science)
+## [Actuarial Science](./actuarial-science)
 
 ---
 
