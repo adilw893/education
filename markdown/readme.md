@@ -7,7 +7,7 @@
 - [ ] Rmd files
 - [ ] Spark notebooks
 - [ ] GitHub
-- [ ] create website via [GitHub Pages](https://pages.github.com/) / [Jekyll](https://jekyllrb.com/)
+- [ ] create website via [GitHub Pages](https://pages.github.com/) / [Jekyll][jek]
 - [ ] self-publish a book on [Leanpub](https://leanpub.com/)
 
 ---
@@ -15,7 +15,7 @@
 ## Books
 - [ ] **The Markdown Guide - Matt Cone (PDF)**  
   
-[companion site](https://www.markdownguide.org/) included in [links](../blob/main/markdown#links) below  
+[companion site](https://www.markdownguide.org/) included in [links](../markdown#links) below  
 created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 2004, WYSIWYG editor (what you see is what you get)  
 1. create file with a `.md` or `.markdown` extension  
 2. open file in a Markdown app  
@@ -51,7 +51,7 @@ created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 200
 ---
 
 ## Links
-- [ ] **[The Markdown Guide](https://www.markdownguide.org/): companion site to [Matt Cone's book](https://github.com/adilw893/education/tree/main/markdown#books) above**
+- [ ] **[The Markdown Guide](https://www.markdownguide.org/): companion site to [Matt Cone's book](../markdown#books) above**
 - [ ] [John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/): creator of Markdown
 - [x] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text  
   installed on Mac, `CTRL` + `ALT` + `M` = toggle shortcut (otherwise right click)  
@@ -60,8 +60,8 @@ created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 200
 - [ ] [Dillinger](https://dillinger.io/): online Markdown editor
 - [ ] [StackEdit](https://stackedit.io/): online Markdown editor
 - [ ] [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
-- [ ] [GitHub Pages](https://pages.github.com/): turns Markdown files into a website and hosts them for free (uses [Jekyll](https://jekyllrb.com/) as the backend)
-- [ ] [Jekyll](https://jekyllrb.com/): static site generator that takes Markdown files and builds an HTML website ([GitHub Pages](https://pages.github.com/) provides free hosting for Jekyll-generated websites)
+- [ ] [GitHub Pages](https://pages.github.com/): turns Markdown files into a website and hosts them for free (uses [Jekyll][jek] as the backend)
+- [ ] [Jekyll][jek]: static site generator that takes Markdown files and builds an HTML website ([GitHub Pages](https://pages.github.com/) provides free hosting for Jekyll-generated websites)
 - [ ] [Ghost Guide to Markdown](https://ghost.org/changelog/markdown/): tutorial from [Ghost](https://ghost.org/), a free blogging platform / content management system (CMS)
 - [ ] [Leanpub](https://leanpub.com/): self-publish Markdown-formatted ebooks
 - [ ] [How I wrote and published my novel using only open source tools](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca): blog on self-publishing experience
@@ -76,3 +76,5 @@ created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 200
 - [ ] https://www.abhaytalreja.me/markdown-crash-course-learn-markdown-in-30-minutes-markdown-cheatsheet/
 - [ ] https://medium.com/programmers-developers/building-books-with-markdown-using-pandoc-f0d19df7b2ca
 - [ ] https://learn.getgrav.org/17/content/markdown
+
+[jek]: https://jekyllrb.com/
