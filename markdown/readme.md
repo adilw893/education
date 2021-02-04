@@ -23,42 +23,57 @@ created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 200
 4. view HTML file in a web browser or use app to convert to another file format (like PDF)  
 
 [Markdown Cheat Sheet](../markdown/markdown-cheat-sheet.md)  
-can still use HTML tags within Markdown documents  
-headings created by one to six `#` in front of heading text  
-paragraph breaks created with a blank line in betweeen blocks of text  
-line breaks created by adding 2+ spaces to end of a line ('trailing whitespace')  
-another option for line breaks is to use the HTML break tag `<br>` <br>
-*italics* are wrapped with single `*` or `_`  
-**bold** is wrapped with double `**` or `__`  
-***bold and italics*** use three `***` or `___` (or combinations thereof)  
-> blockquotes are made with `>`  
-> they can span multiple lines and paragraphs  
->> they can also be nested  
->> and they support *some* Markdown formatting  
-1. ordered lists use numbers with periods, e.g., `1.`
-6. the first one has to start with 1, but otherwise they don't need to be in order
-  1. and they can be nested too
-* unordered lists are made with `*`, `+`, or `-`
-  - and of course support nesting
 
-`inline code` is made using tick marks  
-``and you escape `tick marks in code` with double ticks``  
-triple ticks allow for a code block like this:  
+you can still use HTML tags within Markdown documents (such as for changing text color, etc.)  
+but be careful about mixing and matching (Markdown won't format accurately within HTML tags)  
+
+headings are created by putting one to six `#` in front of heading text  
+
+paragraph breaks are created with a blank line in betweeen blocks of text  
+line breaks are made by adding 2+ spaces to end of a line ('trailing whitespace')  
+another option for line breaks is to use the HTML break tag `<br>` <br>
+
+*italic text* is wrapped with single `*` (best practice) or `_`  
+**bold text** is wrapped with double `**` (best practice) or `__`  
+***bold and italic text*** uses three `***` (best practice) or `___` (or combinations thereof)  
+
+> blockquotes are made with a leading `>`  
+> they can span multiple lines and paragraphs  
+>> they can also be nested with multiple `>>`  
+>> and they support *some* Markdown formatting  
+
+1. ordered lists use numbers followed by periods, e.g., `1.`
+6. the first item has to start with a 1, but otherwise they don't need to be in any order
+    1. and they can be nested too via indenting
+* unordered lists are made with `*`, `+`, or `-`
+  - and of course support indented nesting
+* and the different list types can be mixed too
+  1. nest an ordered list within an unordered list
+  2. and vice versa
+
+use tick marks (\`) to display `inline code`  
+and you escape ``code that contains `tick marks` in it`` with double ticks  
+triple ticks allow for a fenced code block like this:  
 ```
 # this is my code
 hw <- 'hello world'
 print(hw)
 ```
+
 horizontal rules are made of a separate line with just three `---`, `___`, or `***`  
-inline-style links are `[text enclosed in brackets](url 'optional title')`  
-a quick link uses angle brackets `<url>`  
+put blank lines before and after horizontal rules, otherwise text could display as heading (an alternate style to using `#`)
+
+inline-style links are `[text enclosed in brackets](url 'optional tooltip title')`  
+a quick link can just use angle brackets `<url>`  
 reference-style links are broken into two parts:  
 * in paragraph: `[text to display][link reference]`
 * anywhere else in your document: `[link reference]: url`
 * generally placed at end (like footnotes)
 
 images are added just like links, except with a `!` in front of the `[bracketed text (which becomes the caption)]`  
-use a backslash `\` in front of a Markdown formatting character to escape it and display it literally  
+
+use a backslash `\` in front of a Markdown formatting character to escape it and display the literal character  
+e.g., `\*` displays the \* rather than starting an unordered list
 
 - [ ] [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
 - [ ] [R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
