@@ -6,13 +6,13 @@
 **1. finish what you've started:**
   - **read The Pragmatic Programmer (PDF: ch 6, 7, 8)**
   - **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
+3. master [Markdown](./tree/main/markdown) basics
+  - **read The Markdown Guide (PDF: ch 4 Extended Syntax)**
+  - **[companion website](https://www.markdownguide.org/basic-syntax/)**
+  - practice, play around
 2. learn to use [GitHub](https://github.com/adilw893/education/tree/main/git)
   - **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
   - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
-  - practice, play around
-3. master [Markdown](https://github.com/adilw893/education/tree/main/markdown) basics (for GitHub, Spark notebooks, Rmd files, etc.)
-  - **read The Markdown Guide (PDF: ch 3 Basic Syntax, 4 Extended Syntax)**
-  - **[companion website](https://www.markdownguide.org/basic-syntax/)**
   - practice, play around
 4. learn more about [data visualization](https://github.com/adilw893/education/tree/main/data-visualization) in general
   - **read The Visual Display of Quantitative Information (PDF)**
