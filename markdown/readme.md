@@ -109,9 +109,16 @@ and you can specify the language for syntax highlighting after the triple ticks:
 
 *AJD - footnotes do not appear to work for GFM...*  
 
-add footnotes similar to reference-style links
-1. use a caret and identifier within brackets, such as `[^1]`
-2. then define it somewhere else in the document, e.g., `[^1]: footnote text`
+~~add footnotes similar to reference-style links~~
+~~1. use a caret and identifier within brackets, such as `[^1]`~~
+~~2. then define it somewhere else in the document, e.g., `[^1]: footnote text`~~
+
+*AJD - custom heading IDs do not appear to work for GFM...*  
+
+adding custom heading IDs allos you to link directly to headings and modify them with CSS  
+make custom heading IDs with curly braces `### Heading {#custom-id}`  
+then link within the file using that ID `[text](#custom-id)`  
+or link from other websites with full URL and ID `[text](https://www.mywebsite.com/documentation#custom-id)`  
 
 *AJD - definition lists do not appear to work for GFM...*  
 
