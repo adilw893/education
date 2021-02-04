@@ -14,14 +14,14 @@
 
 ## Books
 - [ ] **The Markdown Guide - Matt Cone (PDF)**  
-  
+
 [companion site](https://www.markdownguide.org/) included in [links](../markdown#links) below  
 created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 2004, WYSIWYG editor (what you see is what you get)  
 1. create file with a `.md` or `.markdown` extension  
 2. open file in a Markdown app  
 3. convert Markdown file to an HTML document  
 4. view HTML file in a web browser or use app to convert to another file format (like PDF)  
-  
+
 [Markdown Cheat Sheet](../markdown/markdown-cheat-sheet.md)  
 can still use HTML tags within Markdown documents  
 headings created by one to six `#` in front of heading text  
@@ -35,11 +35,12 @@ another option for line breaks is to use the HTML break tag `<br>` <br>
 > they can span multiple lines and paragraphs  
 >> they can also be nested  
 >> and they support *some* Markdown formatting  
-1. ordered lists use numbers with periods, e.g., `1.`  
-6. the first one has to start with 1, but otherwise they don't need to be in order  
-  1. and they can be nested too  
-* unordered lists are made with `*`, `+`, or `-`  
-  - and of course support nesting  
+1. ordered lists use numbers with periods, e.g., `1.`
+6. the first one has to start with 1, but otherwise they don't need to be in order
+  1. and they can be nested too
+* unordered lists are made with `*`, `+`, or `-`
+  - and of course support nesting
+
 `inline code` is made using tick marks  
 ``and you escape `tick marks in code` with double ticks``  
 triple ticks allow for a code block like this:  
@@ -52,12 +53,13 @@ horizontal rules are made of a separate line with just three `---`, `___`, or `*
 inline-style links are `[text enclosed in brackets](url 'optional title')`  
 a quick link uses angle brackets `<url>`  
 reference-style links are broken into two parts:  
-* in paragraph: `[text to display][link reference]`  
-* anywhere else in your document: `[link reference]: url`  
+* in paragraph: `[text to display][link reference]`
+* anywhere else in your document: `[link reference]: url`
 * generally placed at end (like footnotes)
+
 images are added just like links, except with a `!` in front of the `[bracketed text (which becomes the caption)]`  
 use a backslash `\` in front of a Markdown formatting character to escape it and display it literally  
-  
+
 - [ ] [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
 - [ ] [R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 - [ ] [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/)
@@ -88,8 +90,8 @@ use a backslash `\` in front of a Markdown formatting character to escape it and
 ## Links
 - [ ] **[The Markdown Guide](https://www.markdownguide.org/): companion site to [Matt Cone's book](../markdown#books) above**
 - [ ] [John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/): creator of Markdown
-- [x] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text  
-  installed on Mac, `CTRL` + `ALT` + `M` = toggle shortcut (otherwise right click)  
+- [x] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text
+  installed on Mac, `CTRL` + `ALT` + `M` = toggle shortcut (otherwise right click)
 - [ ] [Awesome Markdown](https://github.com/mundimark/awesome-markdown): GitHub repo featuring a collection of Markdown goodies
 - [ ] [Markdown Tutorial](https://www.markdowntutorial.com/)
 - [ ] [Dillinger](https://dillinger.io/): online Markdown editor
