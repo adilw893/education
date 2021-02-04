@@ -26,7 +26,8 @@ created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 200
 can still use HTML tags within Markdown documents  
 headings created by one to six `#` in front of heading text  
 paragraph breaks created with a blank line in betweeen blocks of text  
-line breaks created by adding 2+ spaces to end of a line  
+line breaks created by adding 2+ spaces to end of a line ('trailing whitespace')  
+another option for line breaks is to use the HTML break tag `<br>` <br>
 *italics* are wrapped with single `*` or `_`  
 **bold** is wrapped with double `**` or `__`  
 ***bold and italics*** use three `***` or `___` (or combinations thereof)  
@@ -53,7 +54,7 @@ a quick link uses angle brackets `<url>`
 reference-style links are broken into two parts:  
 * in paragraph: `[text to display][link reference]`  
 * anywhere else in your document: `[link reference]: url`  
-* generally placed at end (like footnotes)  
+* generally placed at end (like footnotes)
 images are added just like links, except with a `!` in front of the `[bracketed text (which becomes the caption)]`  
 use a backslash `\` in front of a Markdown formatting character to escape it and display it literally  
   
