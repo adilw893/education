@@ -14,6 +14,7 @@
 
 ## Books
 - [ ] **The Markdown Guide - Matt Cone (PDF)**  
+  
 [companion site](https://www.markdownguide.org/) included in [links](https://github.com/adilw893/education/tree/main/markdown#links) below  
 created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 2004, WYSIWYG editor (what you see is what you get)  
 1. create file with a `.md` or `.markdown` extension  
@@ -59,7 +60,8 @@ created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 200
 - [ ] [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
 - [ ] [Leanpub](https://leanpub.com/): self-publish Markdown-formatted ebooks
 - [ ] [How I wrote and published my novel using only open source tools](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca): blog on self-publishing experience
-- [ ] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text
+- [ ] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text  
+  installed on Mac, ctrl + alt + m = toggle shortcut (otherwise right click)  
 - [ ] [GitHub Pages](https://pages.github.com/): turns Markdown files into a website and hosts them for free (uses [Jekyll](https://jekyllrb.com/) as the backend)
 - [ ] [Jekyll](https://jekyllrb.com/): static site generator that takes Markdown files and builds an HTML website ([GitHub Pages](https://pages.github.com/) provides free hosting for Jekyll-generated websites)
 
