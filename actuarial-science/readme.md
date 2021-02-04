@@ -29,13 +29,15 @@
 
 ## ASOPs
 - [Actuarial Standards of Practice](http://www.actuarialstandardsboard.org/standards-of-practice/)
-  - [ASOP 5 - Incurred Health and Disability Claims]()
-  - [ASOP 23 - Data Quality]()
-  - [ASOP 25 - Credibility Procedures]()
-  - [ASOP 41 - Actuarial Communications]()
-  - [ASOP 45 - The Use of Health Status Based Risk Adjustment Methodologies]()
-  - [ASOP 49 - Medicaid Managed Care Capitation Rate Development and Certification]()
-  - [ASOP 56 - Modeling]()
+  - [ASOP 1 - Introductory Actuarial Standard of Practice](http://www.actuarialstandardsboard.org/asops/introductoryactuarialstandardpractice/)
+  - [ASOP 5 - Incurred Health and Disability Claims](http://www.actuarialstandardsboard.org/asops/incurred-health-and-disability-claims_186/)
+  - [ASOP 12 - Risk Classification (for All Practice Areas)](http://www.actuarialstandardsboard.org/asops/risk-classification-practice-areas/)
+  - [ASOP 23 - Data Quality](http://www.actuarialstandardsboard.org/asops/data-quality/)
+  - [ASOP 25 - Credibility Procedures](http://www.actuarialstandardsboard.org/asops/credibility-procedures/)
+  - [ASOP 41 - Actuarial Communications](http://www.actuarialstandardsboard.org/asops/actuarial-communications/)
+  - [ASOP 45 - The Use of Health Status Based Risk Adjustment Methodologies](http://www.actuarialstandardsboard.org/asops/use-health-status-based-risk-adjustment-methodologies/)
+  - [ASOP 49 - Medicaid Managed Care Capitation Rate Development and Certification](http://www.actuarialstandardsboard.org/asops/medicaid-managed-care-capitation-rate-development-and-certification/)
+  - [ASOP 56 - Modeling](http://www.actuarialstandardsboard.org/asops/modeling-3/)
 
 ---
 
