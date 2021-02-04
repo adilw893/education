@@ -30,8 +30,9 @@ but be careful about mixing and matching (Markdown won't format accurately withi
 headings are created by putting one to six `#` in front of heading text  
 
 paragraph breaks are created with a blank line in betweeen blocks of text  
+
 line breaks are made by adding 2+ spaces to end of a line ('trailing whitespace')  
-another option for line breaks is to use the HTML break tag `<br>` <br>
+and another option for line breaks is to use the HTML break tag `<br>` <br>
 
 *italic text* is wrapped with single `*` (best practice) or `_`  
 **bold text** is wrapped with double `**` (best practice) or `__`  
@@ -51,9 +52,9 @@ another option for line breaks is to use the HTML break tag `<br>` <br>
   1. nest an ordered list within an unordered list
   2. and vice versa
 
-use tick marks (\`) to display `inline code`  
-and you escape ``code that contains `tick marks` in it`` with double ticks  
-triple ticks allow for a fenced code block like this:  
+use tick marks \` to display `inline code`  
+and you escape ``code that contains `tick marks` in it`` with double ticks \`\`  
+triple ticks \`\`\` allow for a fenced code block like this:  
 ```
 # this is my code
 hw <- 'hello world'
@@ -61,20 +62,20 @@ print(hw)
 ```
 
 horizontal rules are made of a separate line with just three `---`, `___`, or `***`  
-put blank lines before and after horizontal rules, otherwise text could display as heading (an alternate style to using `#`)
+put blank lines before and after horizontal rules, otherwise text could display as heading (an alternate style to using `#`)  
 
 inline-style links are `[text enclosed in brackets](url 'optional tooltip title')`  
-a quick link can just use angle brackets `<url>`, but some Markdown processors don't even require brackets and just create links automatically
-    if you'd like to disable the automatic linking, use tick marks to denote it as code, e.g., `url`
+a quick link can just use angle brackets `<url>`, but some Markdown processors don't even require brackets and just create links automatically  
+    if you'd like to disable the automatic linking, use tick marks to denote it as code, e.g., `` `url` ``  
 reference-style links are broken into two parts:  
 * in paragraph: `[text to display][link reference]`
 * anywhere else in your document: `[link reference]: url`
-* generally placed at end (like footnotes)
+* generally placed at end (like footnotes)  
 
 images are added just like links, except with a `!` in front of the `[bracketed text (which becomes the caption)]`  
 
 use a backslash `\` in front of a Markdown formatting character to escape it and display the literal character  
-e.g., `\*` displays the \* rather than starting an unordered list
+e.g., `\*` displays the \* rather than starting an unordered list  
 
 extended syntax (beyond Gruber's original design) available in certain lightweight markup languages, such as:
 * CommonMark
@@ -82,45 +83,51 @@ extended syntax (beyond Gruber's original design) available in certain lightweig
 * Markdown Extra
 * MultiMarkdown
 
-tables can be built with `---` and `|`
+tables can be built with `---` and `|`  
+e.g.,  
 ```
 |syntax|description
 |---|---
 |header|title
 |paragraph|text
 ```
-becomes
+becomes  
 |syntax|description
 |---|---
 |header|title
 |paragraph|text
 
 and add colons to the header hyphens to align text
-left align = `:---`
-center align = `:---:`
-right align = `---:`
+* left align = `:---`
+* center align = `:---:`
+* right align = `---:`
 
-tables also support links, code, and emphasis (but not headings, blockquotes, lists, horizontal rules, images, or HTML tags)
+tables also support links, code, and emphasis (but not headings, blockquotes, lists, horizontal rules, images, or HTML tags)  
 
-use triple ticks `` ``` `` before and after code to create fenced code blocks
-and you can specify the language for syntax highlighting after the triple ticks: `` ```R `` or `` ```python ``
+use triple ticks `` ``` `` before and after code to create fenced code blocks  
+and you can specify the language for syntax highlighting after the triple ticks: `` ```R `` or `` ```python ``  
+
+*AJD - footnotes do not appear to work for GFM...*  
 
 add footnotes similar to reference-style links
 1. use a caret and identifier within brackets, such as `[^1]`
 2. then define it somewhere else in the document, e.g., `[^1]: footnote text`
 
-some Markdown processors allow for definition lists
+*AJD - definition lists do not appear to work for GFM...*  
+
+~~some Markdown processors allow for definition lists~~
 ```
 term
 : definition
 ```
-becomes
-term
-: definition
+~~becomes~~
+~~term~~
+~~: definition~~
 
-~~strikethrough~~ text with double `~~`
+~~strikethrough~~ text with double `~~`  
 
-for task lists, `- [ ]` creates an empty checkbox, and `- [x]` marks it as checked
+for task lists, `- [ ]` creates an empty checkbox, and `- [x]` marks it as checked  
+
 
 - [ ] [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
 - [ ] [R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
