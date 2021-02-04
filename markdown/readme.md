@@ -30,25 +30,33 @@ line breaks created by adding 2+ spaces to end of a line
 *italics* are wrapped with single `*` or `_`  
 **bold** is wrapped with double `**` or `__`  
 ***bold and italics*** use three `***` or `___` (or combinations thereof)  
-> blockquotes are made with `>`
-> they can span multiple lines and paragraphs
->> they can also be nested
->> and they support *some* Markdown formatting
-1. ordered lists use numbers with periods, e.g., `1.`
-6. the first one has to start with 1, but otherwise they don't need to be in order
-  1. and they can be nested too
-* unordered lists are made with `*`, `+`, or `-`
-  - and of course support nesting
-`inline code` is made using tick marks
-``and you escape `tick marks` with double ticks``
+> blockquotes are made with `>`  
+> they can span multiple lines and paragraphs  
+>> they can also be nested  
+>> and they support *some* Markdown formatting  
+1. ordered lists use numbers with periods, e.g., `1.`  
+6. the first one has to start with 1, but otherwise they don't need to be in order  
+  1. and they can be nested too  
+* unordered lists are made with `*`, `+`, or `-`  
+  - and of course support nesting  
+`inline code` is made using tick marks  
+``and you escape `tick marks in code` with double ticks``  
 triple ticks allow for a code block like this:  
 ```
 # this is my code
 hw <- 'hello world'
 print(hw)
 ```
-horizontal rules are made of a separate line with just three `---`, `___`, or `***`
-
+horizontal rules are made of a separate line with just three `---`, `___`, or `***`  
+inline-style links are `[text enclosed in brackets](url 'optional title')`  
+a quick link uses angle brackets `<url>`  
+reference-style links are broken into two parts:  
+* in paragraph: `[text to display][link reference]`  
+* anywhere else in your document: `[link reference]: url`  
+* generally placed at end (like footnotes)  
+images are added just like links, except with a `!` in front of the `[bracketed text (which becomes the caption)]`  
+use a backslash `\` in front of a Markdown formatting character to escape it and display it literally  
+  
 - [ ] [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
 - [ ] [R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 - [ ] [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/)
