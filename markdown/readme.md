@@ -4,11 +4,11 @@
 
 ## Projects / use cases
 
--[ ] Rmd files
--[ ] Spark notebooks
--[ ] GitHub
--[ ] create website via [GitHub Pages](https://pages.github.com/) / [Jekyll](https://jekyllrb.com/)
--[ ] self-publish a book on [Leanpub](https://leanpub.com/)
+- [ ] Rmd files
+- [ ] Spark notebooks
+- [ ] GitHub
+- [ ] create website via [GitHub Pages](https://pages.github.com/) / [Jekyll](https://jekyllrb.com/)
+- [ ] self-publish a book on [Leanpub](https://leanpub.com/)
 
 ---
 
