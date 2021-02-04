@@ -80,7 +80,7 @@ e.g., `\*` displays the \* rather than starting an unordered list
 
 extended syntax (beyond Gruber's original design) available in certain lightweight markup languages, such as:
 * [Common Mark](https://commonmark.org/)
-* [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/)
+* [GitHub Flavored Markdown (GFM)][gfm]
 * [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/)
 * [MultiMarkdown](https://fletcherpenney.net/multimarkdown/)
 * [R Markdown](https://rmarkdown.rstudio.com/)
@@ -195,7 +195,7 @@ term
 - [ ] [MultiMarkdown](https://fletcherpenney.net/multimarkdown/): lightweight markup language
 - [ ] [R Markdown](https://rmarkdown.rstudio.com/): lightweight markup language
 
-- [ ] [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): GitHub Guides
+- [ ] **[Mastering Markdown](https://guides.github.com/features/mastering-markdown/): GitHub Guides**
 - [ ] [Writing on GitHub](https://docs.github.com/en/github/writing-on-github): GitHub Docs
 - [ ] https://www.youtube.com/watch?v=6A5EpqqDOdk
 - [ ] https://five.squarespace.com/display/ShowHelp?section=Markdown
