@@ -64,7 +64,8 @@ horizontal rules are made of a separate line with just three `---`, `___`, or `*
 put blank lines before and after horizontal rules, otherwise text could display as heading (an alternate style to using `#`)
 
 inline-style links are `[text enclosed in brackets](url 'optional tooltip title')`  
-a quick link can just use angle brackets `<url>`  
+a quick link can just use angle brackets `<url>`, but some Markdown processors don't even require brackets and just create links automatically
+    if you'd like to disable the automatic linking, use tick marks to denote it as code, e.g., `url`
 reference-style links are broken into two parts:  
 * in paragraph: `[text to display][link reference]`
 * anywhere else in your document: `[link reference]: url`
@@ -74,6 +75,52 @@ images are added just like links, except with a `!` in front of the `[bracketed 
 
 use a backslash `\` in front of a Markdown formatting character to escape it and display the literal character  
 e.g., `\*` displays the \* rather than starting an unordered list
+
+extended syntax (beyond Gruber's original design) available in certain lightweight markup languages, such as:
+* CommonMark
+* GitHub Flavored Markdown (GFM)
+* Markdown Extra
+* MultiMarkdown
+
+tables can be built with `---` and `|`
+```
+|syntax|description
+|---|---
+|header|title
+|paragraph|text
+```
+becomes
+|syntax|description
+|---|---
+|header|title
+|paragraph|text
+
+and add colons to the header hyphens to align text
+left align = `:---`
+center align = `:---:`
+right align = `---:`
+
+tables also support links, code, and emphasis (but not headings, blockquotes, lists, horizontal rules, images, or HTML tags)
+
+use triple ticks `` ``` `` before and after code to create fenced code blocks
+and you can specify the language for syntax highlighting after the triple ticks: `` ```R `` or `` ```python ``
+
+add footnotes similar to reference-style links
+1. use a caret and identifier within brackets, such as `[^1]`
+2. then define it somewhere else in the document, e.g., `[^1]: footnote text`
+
+some Markdown processors allow for definition lists
+```
+term
+: definition
+```
+becomes
+term
+: definition
+
+~~strikethrough~~ text with double `~~`
+
+for task lists, `- [ ]` creates an empty checkbox, and `- [x]` marks it as checked
 
 - [ ] [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
 - [ ] [R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
