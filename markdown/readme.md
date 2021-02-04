@@ -4,16 +4,17 @@
 
 ## Projects / use cases
 
-- [ ] Rmd files
-- [ ] Spark notebooks
 - [ ] GitHub
+- [ ] Spark notebooks
+- [ ] Rmd files
+- [ ] use Markdown Here browser extension for writing email and other web forms (try in Gmail)
 - [ ] create website via [GitHub Pages](https://pages.github.com/) / [Jekyll][jek]
 - [ ] self-publish a book on [Leanpub](https://leanpub.com/)
 
 ---
 
 ## Books
-- [ ] **The Markdown Guide - Matt Cone (PDF)**  
+- [x] The Markdown Guide - Matt Cone (PDF)  
 
 [companion site](https://www.markdownguide.org/) included in [links](../markdown#links) below  
 created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 2004, WYSIWYG editor (what you see is what you get)  
@@ -78,10 +79,11 @@ use a backslash `\` in front of a Markdown formatting character to escape it and
 e.g., `\*` displays the \* rather than starting an unordered list  
 
 extended syntax (beyond Gruber's original design) available in certain lightweight markup languages, such as:
-* CommonMark
-* GitHub Flavored Markdown (GFM)
-* Markdown Extra
-* MultiMarkdown
+* [Common Mark](https://commonmark.org/)
+* [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/)
+* [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/)
+* [MultiMarkdown](https://fletcherpenney.net/multimarkdown/)
+* [R Markdown](https://rmarkdown.rstudio.com/)
 
 tables can be built with `---` and `|`  
 e.g.,  
@@ -102,10 +104,21 @@ and add colons to the header hyphens to align text
 * center align = `:---:`
 * right align = `---:`
 
-tables also support links, code, and emphasis (but not headings, blockquotes, lists, horizontal rules, images, or HTML tags)  
+tables also support links, inline code, and emphasis (but not fenced code blocks, headings, blockquotes, lists, horizontal rules, images, or HTML tags)  
+
+to display a pipe character `|` within a table, use the HTML character code `&#124;` to escape  
 
 use triple ticks `` ``` `` before and after code to create fenced code blocks  
 and you can specify the language for syntax highlighting after the triple ticks: `` ```R `` or `` ```python ``  
+
+for task lists, `- [ ]` creates an empty checkbox, and `- [x]` marks it as checked  
+
+~~strikethrough~~ text with double `~~`  
+
+emojis can be copied and pasted (from a source like [Emojipedia](https://emojipedia.org/))  
+e.g., 🥰  
+or some Markdown applications have their own emoji shortcodes
+e.g., `:tent:` or `:joy:` become :tent: and :joy:
 
 *AJD - footnotes do not appear to work for GFM...*  
 
@@ -115,10 +128,10 @@ and you can specify the language for syntax highlighting after the triple ticks:
 
 *AJD - custom heading IDs do not appear to work for GFM...*  
 
-adding custom heading IDs allos you to link directly to headings and modify them with CSS  
-make custom heading IDs with curly braces `### Heading {#custom-id}`  
-then link within the file using that ID `[text](#custom-id)`  
-or link from other websites with full URL and ID `[text](https://www.mywebsite.com/documentation#custom-id)`  
+~~adding custom heading IDs allos you to link directly to headings and modify them with CSS~~  
+~~make custom heading IDs with curly braces `### Heading {#custom-id}`~~  
+~~then link within the file using that ID `[text](#custom-id)`~~  
+~~or link from other websites with full URL and ID `[text](https://www.mywebsite.com/documentation#custom-id)`~~  
 
 *AJD - definition lists do not appear to work for GFM...*  
 
@@ -131,12 +144,8 @@ term
 ~~term~~
 ~~: definition~~
 
-~~strikethrough~~ text with double `~~`  
+- [ ] **[Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)**
 
-for task lists, `- [ ]` creates an empty checkbox, and `- [x]` marks it as checked  
-
-
-- [ ] [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
 - [ ] [R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 - [ ] [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/)
 - [ ] [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/)
@@ -164,23 +173,30 @@ for task lists, `- [ ]` creates an empty checkbox, and `- [x]` marks it as check
 ---
 
 ## Links
-- [ ] **[The Markdown Guide](https://www.markdownguide.org/): companion site to [Matt Cone's book](../markdown#books) above**
-- [ ] [John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/): creator of Markdown
+- [x] [The Markdown Guide](https://www.markdownguide.org/): companion site to [Matt Cone's book](../markdown#books) above
+- [ ] **[John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/): creator of Markdown**
 - [x] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text
   installed on Mac, `CTRL` + `ALT` + `M` = toggle shortcut (otherwise right click)
 - [ ] [Awesome Markdown](https://github.com/mundimark/awesome-markdown): GitHub repo featuring a collection of Markdown goodies
 - [ ] [Markdown Tutorial](https://www.markdowntutorial.com/)
 - [ ] [Dillinger](https://dillinger.io/): online Markdown editor
 - [ ] [StackEdit](https://stackedit.io/): online Markdown editor
-- [ ] [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [ ] **[GitHub Flavored Markdown Spec][gfm]**
 - [ ] [GitHub Pages](https://pages.github.com/): turns Markdown files into a website and hosts them for free (uses [Jekyll][jek] as the backend)
 - [ ] [Jekyll][jek]: static site generator that takes Markdown files and builds an HTML website ([GitHub Pages](https://pages.github.com/) provides free hosting for Jekyll-generated websites)
 - [ ] [Ghost Guide to Markdown](https://ghost.org/changelog/markdown/): tutorial from [Ghost](https://ghost.org/), a free blogging platform / content management system (CMS)
 - [ ] [Leanpub](https://leanpub.com/): self-publish Markdown-formatted ebooks
 - [ ] [How I wrote and published my novel using only open source tools](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca): blog on self-publishing experience
+- [ ] [Emojipedia](https://emojipedia.org/): searchable index of emojis that can then be copied and pasted into Markdown files
+- [ ] [Complete list of GitHub Markdown emoji](https://gist.github.com/rxaviers/7360908): list of GFM emoji shortcodes
+- [ ] [Common Mark](https://commonmark.org/): lightweight markup language
+- [ ] [GitHub Flavored Markdown (GFM)][gfm]: lightweight markup language
+- [ ] [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/): lightweight markup language
+- [ ] [MultiMarkdown](https://fletcherpenney.net/multimarkdown/): lightweight markup language
+- [ ] [R Markdown](https://rmarkdown.rstudio.com/): lightweight markup language
 
-- [ ] https://guides.github.com/features/mastering-markdown/
-- [ ] [Writing on GitHub](https://docs.github.com/en/github/writing-on-github)
+- [ ] [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): GitHub Guides
+- [ ] [Writing on GitHub](https://docs.github.com/en/github/writing-on-github): GitHub Docs
 - [ ] https://www.youtube.com/watch?v=6A5EpqqDOdk
 - [ ] https://five.squarespace.com/display/ShowHelp?section=Markdown
 - [ ] https://chibicode.github.io/markdown-toolbar-cheatsheet/
@@ -190,4 +206,5 @@ for task lists, `- [ ]` creates an empty checkbox, and `- [x]` marks it as check
 - [ ] https://medium.com/programmers-developers/building-books-with-markdown-using-pandoc-f0d19df7b2ca
 - [ ] https://learn.getgrav.org/17/content/markdown
 
+[gfm]: https://github.github.com/gfm/
 [jek]: https://jekyllrb.com/
