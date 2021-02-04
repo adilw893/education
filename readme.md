@@ -4,15 +4,18 @@
 
 ## Current priorities
 **1. finish what you've started:**
-  - **read The Pragmatic Programmer (PDF: ch 6, 7, 8)**
+  - **read The Pragmatic Programmer (PDF: ch 7, 8)**
   - **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
-2. master [Markdown](./markdown) basics
-  - **read The Markdown Guide (PDF: ch 4 Extended Syntax) and [companion website](https://www.markdownguide.org/basic-syntax/)**
-  - practice, play around
-3. learn to use [GitHub](./git)
+2. learn to use [GitHub](./git)
   - **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
   - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
   - practice, play around
+4. master [Markdown](./markdown) basics
+  - read [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/) book
+  - read [John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/)
+  - read [GFM](https://github.github.com/gfm/) specs
+  - read [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) GitHub guide
+  - continue practicing and playing around, just use it
 4. learn more about [data visualization](./data-visualization) in general
   - **read The Visual Display of Quantitative Information (PDF)**
 5. [writing](./writing) refresher
