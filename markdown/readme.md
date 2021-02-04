@@ -54,14 +54,15 @@ created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 200
 - [ ] **[The Markdown Guide](https://www.markdownguide.org/): companion site to [Matt Cone's book](https://github.com/adilw893/education/tree/main/markdown#books) above**
 - [ ] [Ghost Guide to Markdown](https://ghost.org/changelog/markdown/): tutorial from [Ghost](https://ghost.org/), a free blogging platform / content management system (CMS)
 - [ ] [Dillinger](https://dillinger.io/): online Markdown editor
+- [ ] [StackEdit](https://stackedit.io/): online Markdown editor
 - [ ] [John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/): creator of Markdown
 - [ ] [Markdown Tutorial](https://www.markdowntutorial.com/)
 - [ ] [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [ ] [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
 - [ ] [Leanpub](https://leanpub.com/): self-publish Markdown-formatted ebooks
 - [ ] [How I wrote and published my novel using only open source tools](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca): blog on self-publishing experience
-- [ ] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text  
-  installed on Mac, ctrl + alt + m = toggle shortcut (otherwise right click)  
+- [x] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text  
+  installed on Mac, `CTRL` + `ALT` + `M` = toggle shortcut (otherwise right click)  
 - [ ] [GitHub Pages](https://pages.github.com/): turns Markdown files into a website and hosts them for free (uses [Jekyll](https://jekyllrb.com/) as the backend)
 - [ ] [Jekyll](https://jekyllrb.com/): static site generator that takes Markdown files and builds an HTML website ([GitHub Pages](https://pages.github.com/) provides free hosting for Jekyll-generated websites)
 
