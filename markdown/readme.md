@@ -21,8 +21,34 @@ created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 200
 2. open file in a Markdown app  
 3. convert Markdown file to an HTML document  
 4. view HTML file in a web browser or use app to convert to another file format (like PDF)  
-[Markdown Cheat Sheet](../markdown/markdown-cheat-sheet.md)  
   
+[Markdown Cheat Sheet](../markdown/markdown-cheat-sheet.md)  
+can still use HTML tags within Markdown documents  
+headings created by one to six `#` in front of heading text  
+paragraph breaks created with a blank line in betweeen blocks of text  
+line breaks created by adding 2+ spaces to end of a line  
+*italics* are wrapped with single `*` or `_`  
+**bold** is wrapped with double `**` or `__`  
+***bold and italics*** use three `***` or `___` (or combinations thereof)  
+> blockquotes are made with `>`
+> they can span multiple lines and paragraphs
+>> they can also be nested
+>> and they support *some* Markdown formatting
+1. ordered lists use numbers with periods, e.g., `1.`
+6. the first one has to start with 1, but otherwise they don't need to be in order
+  1. and they can be nested too
+* unordered lists are made with `*`, `+`, or `-`
+  - and of course support nesting
+`inline code` is made using tick marks
+``and you escape `tick marks` with double ticks``
+triple ticks allow for a code block like this:  
+```
+# this is my code
+hw <- 'hello world'
+print(hw)
+```
+horizontal rules are made of a separate line with just three `---`, `___`, or `***`
+
 - [ ] [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
 - [ ] [R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 - [ ] [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/)
