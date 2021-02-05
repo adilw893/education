@@ -5,21 +5,21 @@
 ## Current priorities
 
 1. **finish what you've started:**
-    - **read The Pragmatic Programmer (PDF: ch 7, 8)**
-    - **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
+  - **read The Pragmatic Programmer (PDF: ch 7, 8)**
+  - **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
 1. learn to use [GitHub](./git)
-    - **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
-    - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
-    - continue practicing and playing around, just use it
+  - **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
+  - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
+  - continue practicing and playing around, just use it
 1. master [Markdown](./markdown) basics
-    - read [John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/)
-    - read [GFM](https://github.github.com/gfm/) specs
-    - read [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/) book
-    - continue practicing and playing around, just use it
+  - read [John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/)
+  - read [GFM](https://github.github.com/gfm/) specs
+  - read [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/) book
+  - continue practicing and playing around, just use it
 1. learn more about [data visualization](./data-visualization) in general
-    - **read The Visual Display of Quantitative Information (PDF)**
+  - **read The Visual Display of Quantitative Information (PDF)**
 1. [writing](./writing) refresher
-    - **read The Elements of Style (PDF)**
+  - **read The Elements of Style (PDF)**
 
 ---
 
