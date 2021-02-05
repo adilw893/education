@@ -9,6 +9,7 @@
 #### [GitHub Learning Lab](https://lab.github.com/)
 
 - [ ] **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
+
 1. [What is GitHub?](https://youtu.be/w3jLJU7DT5E)  
 platform that helps people build software by working together  
 *branches* to the code create an 'alternate timeline' where you can make changes to the code without disrupting the current existing software  
@@ -16,7 +17,9 @@ GitHub tracks changes (*commits*) and saves snapshots of progress
 once you're ready to collaborate with the rest of the team, open a *pull request* to share the changes you're proposing, then review and discuss them  
 then once everybody has signed off on the changes, the new code can be incorporated into the project by *merging* the pull request into the `main` branch  
 as soon as it is merged, it is immediately available to all users  
+
 1. [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)  
+
   1. Assign yourself  
 GitHub is a **collaboration platform** and a **version control** tool  
 [Git](https://docs.github.com/en/github/getting-started-with-github/github-glossary#git) is the most popular open source version control software, tracks every contribution and contributor to your project  
@@ -29,12 +32,12 @@ all repositories should contain a *readme* file, and it will automatically be di
 *issues* are used to track bugs and feature requests, they can be assigned to team members, and are designed to encourage discussion and collaboration  
 a *pull request* represents a change the author would like to make to the repository, and they are used to resolve issues  
 more repository features:  
-* Project boards: Kanban-style task tracking  
-* Wiki: create and store relevant project documentation  
-* Insights: analytics tools for your repository such as Pulse (project dashboard) and Graphs (granular view of repository activity)  
+  * Project boards: Kanban-style task tracking  
+  * Wiki: create and store relevant project documentation  
+  * Insights: analytics tools for your repository such as Pulse (project dashboard) and Graphs (granular view of repository activity)  
 other special files (besides README.md):  
-* CONTRIBUTING.md: used to describe the process for contributing to the repository, a link to this is shown anytime someone creates a new issue or pull request  
-* ISSUE_TEMPLATE.md: another file you can use to pre-populate the body of an issue, every new issue will be opened with this starter text  
+  * CONTRIBUTING.md: used to describe the process for contributing to the repository, a link to this is shown anytime someone creates a new issue or pull request  
+  * ISSUE_TEMPLATE.md: another file you can use to pre-populate the body of an issue, every new issue will be opened with this starter text  
 [Using Issues](https://docs.github.com/en/github/getting-started-with-github/github-glossary#issue)  
 an [issue](https://docs.github.com/en/github/getting-started-with-github/github-glossary#issue) is a place where you can have a conversation about ideas, bugs, code review, suggested improvements, tasks, questions, and anything else  
 they can be categorized with labels and assigned to specific people  
@@ -50,11 +53,12 @@ once you comment on an issue or pull request, you will start to receive email no
 under each issue / pull request, go to 'Notifications' to subscribe or unsubscribe from notifications  
 you can also customize your global notification settings under your Profile > Settings > Notifications  
 that is where you can opt to receive notifications via email or the web interface  
-* Watch: you'll receive all notifications (new issues, pull requests, or comments, issues closed, pull requests merged)  
-* Not watching: won't receive notifications unless you're @-mentioned  
-* Ignore: won't receive any notifications  
+  * Watch: you'll receive all notifications (new issues, pull requests, or comments, issues closed, pull requests merged)  
+  * Not watching: won't receive notifications unless you're @-mentioned  
+  * Ignore: won't receive any notifications  
 starring* a repository adds it a list of favorites (think bookmarks), you won't get notifications  
 under Profile > *Explore*, you can see the full range of what GitHub has to offer and find new projects  
+
   1. Turn on GitHub Pages  
   1. Close an issue  
   1. Create a branch  
@@ -62,9 +66,11 @@ under Profile > *Explore*, you can see the full range of what GitHub has to offe
   1. Open a pull request  
   1. Respond to a review  
   1. Merge your pull request  
+
 projects used:  
 [reveal.js](https://github.com/hakimel/reveal.js): a framework for creating presentations using HTML  
 [Jekyll](https://github.com/jekyll/jekyll): a simple, blog-aware, static site generator  
+
 1. [Git Handbook](https://guides.github.com/introduction/git-handbook/)  
 1. Communicating using Markdown  
 1. Uploading your project to GitHub  
