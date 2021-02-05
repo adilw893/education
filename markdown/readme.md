@@ -6,10 +6,10 @@
 
 - [ ] GitHub
 - [ ] Spark notebooks
-- [ ] Rmd files
+- [ ] [Rmd][rmd] files
 - [ ] use Markdown Here browser extension for writing email and other web forms (try in Gmail)
 - [ ] create website via [GitHub Pages](https://pages.github.com/) / [Jekyll][jek]
-- [ ] self-publish a book on [Leanpub](https://leanpub.com/)
+- [ ] self-publish a book on [Leanpub][lp]
 
 ---
 
@@ -146,11 +146,13 @@ term
 
 - [ ] **[Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)**
 
+
+### Bookdown
 - [ ] [R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 - [ ] [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/)
 - [ ] [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/)
 - [ ] [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/)
-
+### Additional books...
 - [ ] *Introducing Markdown and Pandoc - Thomas Mailund (free?)*
 - [ ] *The Beginner's Guide to Markdown and Pandoc - Thomas Mailund (free?)*
 - [ ] *Learn Markdown - Khurshid Alam (free?)*
@@ -161,42 +163,27 @@ term
 ---
 
 ## Courses
-- [ ] https://www.udemy.com/course/markdown-essentials/
-- [ ] https://www.udacity.com/course/writing-readmes--ud777
-- [ ] https://www.edx.org/course/data-science-productivity-tools
-- [ ] https://www.edx.org/course/data-science-tools
-- [ ] https://www.edx.org/course/principles-statistical-and-computational-tools-for
-- [ ] https://www.coursera.org/learn/open-source-tools-for-data-science
-- [ ] https://www.coursera.org/learn/data-scientists-tools
-- [ ] https://www.coursera.org/projects/pefecting-readme
+### Udemy
+- [ ] [Markdown Essentials](https://www.udemy.com/course/markdown-essentials/)
+### Udacity
+- [ ] [Writing Readmes](https://www.udacity.com/course/writing-readmes--ud777)
+### edX
+- [ ] [Data Science Productivity Tools](https://www.edx.org/course/data-science-productivity-tools)
+- [ ] [Data Science Tools](https://www.edx.org/course/data-science-tools)
+- [ ] [Principles Statistical and Computational Tools for](https://www.edx.org/course/principles-statistical-and-computational-tools-for)
+### Coursera
+- [ ] [Open Source Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
+- [ ] [Data Scientists Tools](https://www.coursera.org/learn/data-scientists-tools)
+- [ ] [Perfecting Readme](https://www.coursera.org/projects/pefecting-readme)
 
 ---
 
 ## Links
+### Tutorials
 - [x] [The Markdown Guide](https://www.markdownguide.org/): companion site to [Matt Cone's book](../markdown#books) above
 - [ ] **[John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/): creator of Markdown**
-- [x] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text
-  installed on Mac, `CTRL` + `ALT` + `M` = toggle shortcut (otherwise right click)
-- [ ] [Awesome Markdown](https://github.com/mundimark/awesome-markdown): GitHub repo featuring a collection of Markdown goodies
 - [ ] [Markdown Tutorial](https://www.markdowntutorial.com/)
-- [ ] [Dillinger](https://dillinger.io/): online Markdown editor
-- [ ] [StackEdit](https://stackedit.io/): online Markdown editor
-- [ ] **[GitHub Flavored Markdown Spec][gfm]**
-- [ ] [GitHub Pages](https://pages.github.com/): turns Markdown files into a website and hosts them for free (uses [Jekyll][jek] as the backend)
-- [ ] [Jekyll][jek]: static site generator that takes Markdown files and builds an HTML website ([GitHub Pages](https://pages.github.com/) provides free hosting for Jekyll-generated websites)
-- [ ] [Ghost Guide to Markdown](https://ghost.org/changelog/markdown/): tutorial from [Ghost](https://ghost.org/), a free blogging platform / content management system (CMS)
-- [ ] [Leanpub](https://leanpub.com/): self-publish Markdown-formatted ebooks
-- [ ] [How I wrote and published my novel using only open source tools](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca): blog on self-publishing experience
-- [ ] [Emojipedia](https://emojipedia.org/): searchable index of emojis that can then be copied and pasted into Markdown files
-- [ ] [Complete list of GitHub Markdown emoji](https://gist.github.com/rxaviers/7360908): list of GFM emoji shortcodes
-- [ ] [Common Mark](https://commonmark.org/): lightweight markup language
-- [ ] [GitHub Flavored Markdown (GFM)][gfm]: lightweight markup language
-- [ ] [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/): lightweight markup language
-- [ ] [MultiMarkdown](https://fletcherpenney.net/multimarkdown/): lightweight markup language
-- [ ] [R Markdown](https://rmarkdown.rstudio.com/): lightweight markup language
-
-- [ ] **[Mastering Markdown](https://guides.github.com/features/mastering-markdown/): GitHub Guides**
-- [ ] [Writing on GitHub](https://docs.github.com/en/github/writing-on-github): GitHub Docs
+- [ ] [Awesome Markdown](https://github.com/mundimark/awesome-markdown): GitHub repo featuring a collection of Markdown goodies
 - [ ] https://www.youtube.com/watch?v=6A5EpqqDOdk
 - [ ] https://five.squarespace.com/display/ShowHelp?section=Markdown
 - [ ] https://chibicode.github.io/markdown-toolbar-cheatsheet/
@@ -206,5 +193,48 @@ term
 - [ ] https://medium.com/programmers-developers/building-books-with-markdown-using-pandoc-f0d19df7b2ca
 - [ ] https://learn.getgrav.org/17/content/markdown
 
+### GitHub
+- [x] [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): GitHub Guides
+
+can use Markdown on GitHub in gists, comments, and `.md` files  
+GFM also supports directed comments (called '@mentions') to individuals and teams with the `@` symbol  
+if you include a task list `- [ ]` in the first comment of an issue or pull request, you will get a progress indicator in your issue list  
+using a number that refers to an issue or pull request will automatically be converted into a link, e.g., `#1`  
+
+- [ ] [Writing on GitHub](https://docs.github.com/en/github/writing-on-github): GitHub Docs
+- [ ] **[GitHub Flavored Markdown Spec][gfm]**
+- [ ] [GitHub Pages][ghpages]: turns Markdown files into a website and hosts them for free (uses [Jekyll][jek] as the backend)
+
+### Browser tools
+- [x] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text
+  installed on Mac, `CTRL` + `ALT` + `M` = toggle shortcut (otherwise right click)
+- [ ] [Dillinger](https://dillinger.io/): online Markdown editor
+- [ ] [StackEdit](https://stackedit.io/): online Markdown editor
+
+### Build a website
+- [ ] [Jekyll][jek]: static site generator that takes Markdown files and builds an HTML website ([GitHub Pages][ghpages] provides free hosting for Jekyll-generated websites)
+- [ ] [Ghost Guide to Markdown](https://ghost.org/changelog/markdown/): tutorial from [Ghost](https://ghost.org/), a free blogging platform / content management system (CMS)
+
+### Self-publishing
+- [ ] [Leanpub][lp]: self-publish Markdown-formatted ebooks
+- [ ] [How I wrote and published my novel using only open source tools](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca): blog on self-publishing experience
+
+### Emojis
+- [ ] [Emojipedia](https://emojipedia.org/): searchable index of emojis that can then be copied and pasted into Markdown files
+- [ ] [Complete list of GitHub Markdown emoji](https://gist.github.com/rxaviers/7360908): list of GFM emoji shortcodes
+- [ ] [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md): every emoji GitHub supports
+
+### Lightweight markup languages
+- [ ] [Common Mark](https://commonmark.org/): lightweight markup language
+- [ ] [GitHub Flavored Markdown (GFM)][gfm]: lightweight markup language
+- [ ] [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/): lightweight markup language
+- [ ] [MultiMarkdown](https://fletcherpenney.net/multimarkdown/): lightweight markup language
+- [ ] [R Markdown][rmd]: lightweight markup language
+
+
+
 [gfm]: https://github.github.com/gfm/
+[ghpages]: https://pages.github.com/
 [jek]: https://jekyllrb.com/
+[lp]: https://leanpub.com/
+[rmd]: https://rmarkdown.rstudio.com/
