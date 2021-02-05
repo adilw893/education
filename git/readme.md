@@ -9,15 +9,13 @@
 #### [GitHub Learning Lab](https://lab.github.com/)
 
 - [ ] **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
-
-1. [What is GitHub?](https://youtu.be/w3jLJU7DT5E)
+1. [What is GitHub?](https://youtu.be/w3jLJU7DT5E)  
 platform that helps people build software by working together  
 *branches* to the code create an 'alternate timeline' where you can make changes to the code without disrupting the current existing software  
 GitHub tracks changes (*commits*) and saves snapshots of progress  
 once you're ready to collaborate with the rest of the team, open a *pull request* to share the changes you're proposing, then review and discuss them  
 then once everybody has signed off on the changes, the new code can be incorporated into the project by *merging* the pull request into the `main` branch  
 as soon as it is merged, it is immediately available to all users  
-
 1. [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)  
   1. Assign yourself  
 GitHub is a **collaboration platform** and a **version control** tool  
@@ -64,15 +62,11 @@ under Profile > *Explore*, you can see the full range of what GitHub has to offe
   1. Open a pull request  
   1. Respond to a review  
   1. Merge your pull request  
-
-  projects used:  
-  [reveal.js](https://github.com/hakimel/reveal.js): a framework for creating presentations using HTML  
-  [Jekyll](https://github.com/jekyll/jekyll): a simple, blog-aware, static site generator  
-
+projects used:  
+[reveal.js](https://github.com/hakimel/reveal.js): a framework for creating presentations using HTML  
+[Jekyll](https://github.com/jekyll/jekyll): a simple, blog-aware, static site generator  
 1. [Git Handbook](https://guides.github.com/introduction/git-handbook/)  
-
 1. Communicating using Markdown  
-
 1. Uploading your project to GitHub  
 
 - [ ] [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
