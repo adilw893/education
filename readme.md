@@ -3,23 +3,23 @@
 ---
 
 ## Current priorities
-**1. finish what you've started:**
-  - **read The Pragmatic Programmer (PDF: ch 7, 8)**
-  - **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
-2. learn to use [GitHub](./git)
-  - **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
-  - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
-  - practice, play around
-4. master [Markdown](./markdown) basics
-  - read [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/) book
-  - read [John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/)
-  - read [GFM](https://github.github.com/gfm/) specs
-  - read [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) GitHub guide
-  - continue practicing and playing around, just use it
-4. learn more about [data visualization](./data-visualization) in general
-  - **read The Visual Display of Quantitative Information (PDF)**
-5. [writing](./writing) refresher
-  - **read The Elements of Style (PDF)**
+
+1. **finish what you've started:**
+    - **read The Pragmatic Programmer (PDF: ch 7, 8)**
+    - **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
+1. learn to use [GitHub](./git)
+    - **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
+    - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
+    - continue practicing and playing around, just use it
+1. master [Markdown](./markdown) basics
+    - read [John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/)
+    - read [GFM](https://github.github.com/gfm/) specs
+    - read [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/) book
+    - continue practicing and playing around, just use it
+1. learn more about [data visualization](./data-visualization) in general
+    - **read The Visual Display of Quantitative Information (PDF)**
+1. [writing](./writing) refresher
+    - **read The Elements of Style (PDF)**
 
 ---
 
