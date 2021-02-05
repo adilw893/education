@@ -59,8 +59,15 @@ that is where you can opt to receive notifications via email or the web interfac
 starring* a repository adds it a list of favorites (think bookmarks), you won't get notifications  
 under Profile > *Explore*, you can see the full range of what GitHub has to offer and find new projects  
 
-  1. Turn on GitHub Pages  
+  1. Turn on [GitHub Pages](https://pages.github.com/)  
+GitHub Pages allow you to serve a static site from a repository
+Settings > GitHub Pages > change 'Source' dropdown to `main` branch and save
+can also apply themes at this point
+
   1. Close an issue  
+the site is now visible to the public at <https://adilw893.github.io/github-slideshow/>
+since tasks in the issue have been completed, now you can close the issue (with the 'Close issue' button)
+
   1. Create a branch  
   1. Commit a file  
   1. Open a pull request  
