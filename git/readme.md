@@ -7,6 +7,17 @@ Focus on GitHub for now, not necessarily Git...
 ### GitHub
 - [ ] **[GitHub Learning Lab](https://lab.github.com/)**
 	- [ ] **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
+	1. [What is GitHub?](https://youtu.be/w3jLJU7DT5E)  
+	platform that helps people build software by working together  
+	*branches* to the code create an 'alternate timeline' where you can make changes to the code without disrupting the current existing software  
+	GitHub tracks changes (*commits*) and saves snapshots of progress  
+	once you're ready to collaborate with the rest of the team, open a *pull request* to share the changes you're proposing, then review and discuss them  
+	then once everybody has signed off on the changes, the new code can be incorporated into the project by *merging* the pull request into the `main` branch  
+	as soon as it is merged, it is immediately available to all users  
+	1. Introduction to GitHub
+	1. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+	1. Communicating using Markdown
+	1. Uploading your project to GitHub
 	- [ ] [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
 
 - [ ] **[GitHub Guides](https://guides.github.com/)**
@@ -49,13 +60,15 @@ Focus on GitHub for now, not necessarily Git...
 
 	- [ ] **[Hello World](https://guides.github.com/activities/hello-world/)**
 	- [ ] [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
-	- [ ] [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+	- [ ] [Git Handbook](https://guides.github.com/introduction/git-handbook/): part of 'First Day on GitHub' learning path
 	- [ ] [Forking Projects](https://guides.github.com/activities/forking/)
 	- [ ] [Be Social](https://guides.github.com/activities/socialize/)
 	- [ ] [Making Your Code Citable](https://guides.github.com/activities/citable-code/)
 	- [ ] [Mastering Issues](https://guides.github.com/features/issues/)
 	- [x] [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): completed under Markdown directory
 	- [ ] [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
+
+- [ ] [GitHub YouTube Channel](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
 
 ### Other
 - [ ] https://www.edureka.co/blog/git-tutorial/
