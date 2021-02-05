@@ -32,8 +32,8 @@ Focus on GitHub for now, not necessarily Git...
 			*issues* are used to track bugs and feature requests, they can be assigned to team members, and are designed to encourage discussion and collaboration  
 			a *pull request* represents a change the author would like to make to the repository, and they are used to resolve issues  
 			more repository features:  
-				* Project boards: Kanban-style task tracking
-				* Wiki: create and store relevant project documentation
+				* Project boards: Kanban-style task tracking  
+				* Wiki: create and store relevant project documentation  
 				* Insights: analytics tools for your repository such as Pulse (project dashboard) and Graphs (granular view of repository activity)  
 			other special files (besides README.md):  
 				* CONTRIBUTING.md: used to describe the process for contributing to the repository, a link to this is shown anytime someone creates a new issue or pull request  
