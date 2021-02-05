@@ -16,7 +16,7 @@
 ## Books
 
 ### Guides
-- [x] The Markdown Guide - Matt Cone (PDF)  
+- [x] The Markdown Guide - Matt Cone (PDF, completed 2/4/21)  
 
 [companion site](https://www.markdownguide.org/) included in [links](../markdown#links) below  
 created by [John Gruber]((https://daringfireball.net/projects/markdown/)) in 2004, WYSIWYG editor (what you see is what you get)  
@@ -58,6 +58,7 @@ and another option for line breaks is to use the HTML break tag `<br>` <br>
 use tick marks \` to display `inline code`  
 and you escape ``code that contains `tick marks` in it`` with double ticks \`\`  
 triple ticks \`\`\` allow for a fenced code block like this:  
+
 ```
 # this is my code
 hw <- 'hello world'
@@ -187,7 +188,7 @@ term
 ## Links
 
 ### Tutorials
-- [x] [The Markdown Guide](https://www.markdownguide.org/): companion site to [Matt Cone's book](../markdown#books) above
+- [x] [The Markdown Guide](https://www.markdownguide.org/): companion site to [Matt Cone's book](../markdown#books) above, completed 2/4/21
 - [ ] **[John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/): creator of Markdown**
 - [ ] [Markdown Tutorial](https://www.markdowntutorial.com/): self-explanatory
 - [ ] [Awesome Markdown](https://github.com/mundimark/awesome-markdown): GitHub repo featuring a collection of Markdown goodies
@@ -201,7 +202,7 @@ term
 - [ ] https://learn.getgrav.org/17/content/markdown
 
 ### GitHub
-- [x] [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): GitHub Guides
+- [x] [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): GitHub Guides, completed 2/5/21
 
 can use Markdown on GitHub in gists, comments, and `.md` files  
 GFM also supports directed comments (called '@mentions') to individuals and teams with the `@` symbol  
@@ -214,7 +215,8 @@ using a number that refers to an issue or pull request will automatically be con
 
 ### Browser tools
 - [x] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text
-  installed on Mac, `CTRL` + `ALT` + `M` = toggle shortcut (otherwise right click)
+  installed on Mac 2/2/21
+  `CTRL` + `ALT` + `M` = toggle shortcut (otherwise right click)
 - [ ] [Dillinger](https://dillinger.io/): online Markdown editor
 - [ ] [StackEdit](https://stackedit.io/): online Markdown editor
 
