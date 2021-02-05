@@ -14,6 +14,8 @@
 ---
 
 ## Books
+
+### Guides
 - [x] The Markdown Guide - Matt Cone (PDF)  
 
 [companion site](https://www.markdownguide.org/) included in [links](../markdown#links) below  
@@ -146,12 +148,12 @@ term
 
 - [ ] **[Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)**
 
-
-### Bookdown
+### Bookdown / Yihui Xie
 - [ ] [R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 - [ ] [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/)
 - [ ] [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/)
 - [ ] [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/)
+
 ### Additional books...
 - [ ] *Introducing Markdown and Pandoc - Thomas Mailund (free?)*
 - [ ] *The Beginner's Guide to Markdown and Pandoc - Thomas Mailund (free?)*
@@ -163,26 +165,31 @@ term
 ---
 
 ## Courses
+
 ### Udemy
 - [ ] [Markdown Essentials](https://www.udemy.com/course/markdown-essentials/)
+
 ### Udacity
-- [ ] [Writing Readmes](https://www.udacity.com/course/writing-readmes--ud777)
+- [ ] [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+
 ### edX
-- [ ] [Data Science Productivity Tools](https://www.edx.org/course/data-science-productivity-tools)
-- [ ] [Data Science Tools](https://www.edx.org/course/data-science-tools)
-- [ ] [Principles Statistical and Computational Tools for](https://www.edx.org/course/principles-statistical-and-computational-tools-for)
+- [ ] [Data Science: Productivity Tools](https://www.edx.org/course/data-science-productivity-tools): Harvard University
+- [ ] [Data Science Tools](https://www.edx.org/course/data-science-tools): IBM
+- [ ] [Principles, Statistical and Computational Tools for Reproducible Data Science](https://www.edx.org/course/principles-statistical-and-computational-tools-for): Harvard University
+
 ### Coursera
-- [ ] [Open Source Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
-- [ ] [Data Scientists Tools](https://www.coursera.org/learn/data-scientists-tools)
-- [ ] [Perfecting Readme](https://www.coursera.org/projects/pefecting-readme)
+- [ ] [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science): IBM
+- [ ] [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools): Johns Hopkins University, part of Data Science specialization
+- [ ] [Perfecting your Readme](https://www.coursera.org/projects/pefecting-readme): guided project
 
 ---
 
 ## Links
+
 ### Tutorials
 - [x] [The Markdown Guide](https://www.markdownguide.org/): companion site to [Matt Cone's book](../markdown#books) above
 - [ ] **[John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/): creator of Markdown**
-- [ ] [Markdown Tutorial](https://www.markdowntutorial.com/)
+- [ ] [Markdown Tutorial](https://www.markdowntutorial.com/): self-explanatory
 - [ ] [Awesome Markdown](https://github.com/mundimark/awesome-markdown): GitHub repo featuring a collection of Markdown goodies
 - [ ] https://www.youtube.com/watch?v=6A5EpqqDOdk
 - [ ] https://five.squarespace.com/display/ShowHelp?section=Markdown
@@ -202,8 +209,8 @@ if you include a task list `- [ ]` in the first comment of an issue or pull requ
 using a number that refers to an issue or pull request will automatically be converted into a link, e.g., `#1`  
 
 - [ ] [Writing on GitHub](https://docs.github.com/en/github/writing-on-github): GitHub Docs
-- [ ] **[GitHub Flavored Markdown Spec][gfm]**
-- [ ] [GitHub Pages][ghpages]: turns Markdown files into a website and hosts them for free (uses [Jekyll][jek] as the backend)
+- [ ] **[GitHub Flavored Markdown (GFM) Spec][gfm]**
+- [ ] [GitHub Pages][pages]: turns Markdown files into a website and hosts them for free (uses [Jekyll][jek] as the backend)
 
 ### Browser tools
 - [x] [Markdown Here](https://markdown-here.com/): browser extension that converts Markdown text in website forms (e.g., Gmail, Evernote) to properly-formatted rich text
@@ -212,12 +219,12 @@ using a number that refers to an issue or pull request will automatically be con
 - [ ] [StackEdit](https://stackedit.io/): online Markdown editor
 
 ### Build a website
-- [ ] [Jekyll][jek]: static site generator that takes Markdown files and builds an HTML website ([GitHub Pages][ghpages] provides free hosting for Jekyll-generated websites)
+- [ ] [Jekyll][jek]: static site generator that takes Markdown files and builds an HTML website ([GitHub Pages][pages] provides free hosting for Jekyll-generated websites)
 - [ ] [Ghost Guide to Markdown](https://ghost.org/changelog/markdown/): tutorial from [Ghost](https://ghost.org/), a free blogging platform / content management system (CMS)
 
 ### Self-publishing
 - [ ] [Leanpub][lp]: self-publish Markdown-formatted ebooks
-- [ ] [How I wrote and published my novel using only open source tools](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca): blog on self-publishing experience
+- [ ] [How I wrote and published my novel using only open source tools](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca): blog post on self-publishing experience
 
 ### Emojis
 - [ ] [Emojipedia](https://emojipedia.org/): searchable index of emojis that can then be copied and pasted into Markdown files
@@ -234,7 +241,7 @@ using a number that refers to an issue or pull request will automatically be con
 
 
 [gfm]: https://github.github.com/gfm/
-[ghpages]: https://pages.github.com/
 [jek]: https://jekyllrb.com/
 [lp]: https://leanpub.com/
+[pages]: https://pages.github.com/
 [rmd]: https://rmarkdown.rstudio.com/
