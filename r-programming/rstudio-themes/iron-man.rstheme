@@ -24,7 +24,7 @@ to create my own personal version */
 /* Changes the color and style of constants like TRUE, FALSE, and numeric literals. */
 .ace_constant {
   /*color: #fcfe05; /* original = bright yellow */
-  color: #ff0000; /* AJD - red */
+  color: #ffff00; /* AJD - yellow */
 }
 
 /*  Changes the color and style of the text cursor in the editor window. */
@@ -37,7 +37,7 @@ in a list of other selectors for the same rule set, such as .rstudio-themes-flat
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
   background-color: #181818; /* black */
   /*color: #F9EE98; /* original = light yellow */
-  color: #ff0000; /* AJD - red */
+  color: #ffff00; /* AJD - yellow */
 }
 
 /* Changes the color and style of the gutter:
@@ -62,14 +62,14 @@ Global Options > Code Display > Show whitespace characters. */
 /* Changes the color and style of keywords like function, if, else, stop, and operators. */
 .ace_keyword {
   /*color: #f61b1b; /* original color = bright red */
-  color: #ffff00; /* AJD - yellow */
+  color: #ff0000; /* AJD - red */
 }
 
 /* Changes the color and style of operators like (, ), =, +, and -.
 This value will override the settings in the .ace_keyword block for operators, if set. */
 .ace_keyword.ace_operator {
   /*color: #f61b1b; /* original color = bright red */
-  color: #ff0000; /* AJD - red */
+  color: #ffff00; /* AJD - yellow */
 }
 
 /* Changes the color and style of metadata tags in RMarkdown documents, like title and output. */
