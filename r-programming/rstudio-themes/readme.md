@@ -2,13 +2,15 @@
 
 ## Ideas
 
-- [x] Iron Man (dark)
+- [x] Iron Man (dark) - *flip red and yellow colors*
 - [x] Halloween (dark)
 - [x] Batman (dark)
-- [ ] Ireland / St. Patrick's Day (light: green, green, green, orange)
-- [ ] Milwaukee Brewers (light: navy blue, gold, white, royal blue) [link](https://sportsfancovers.com/mlb-team-colors/milwaukee-brewers-team-colors/)
+- [ ] Ireland / St. Patrick's Day (light: green, green, green, orange) - *download a light tsTheme and convert to rsTheme*
+- [ ] Milwaukee Brewers (light: navy blue, gold, white, royal blue, green (grass)) [link](https://sportsfancovers.com/mlb-team-colors/milwaukee-brewers-team-colors/)
 - [ ] Green Bay Packers (light: dark green, gold, white) [link](https://sportsfancovers.com/nfl-team-colors/green-bay-packers-team-colors/)
-- [ ] Zelda / Lord of the Rings (light: green, tan, brown, yellow)
+- [ ] Zelda / Lord of the Rings (light: green, tan, brown, yellow, sepia background)
+- [ ] Phoenix (red, orange, yellow, white)
+- [ ] Christmas (red, green, white)
 - [ ] Iron Man (light)
 - [ ] Halloween (light)
 - [ ] Batman (light?)
@@ -47,7 +49,7 @@
 * quaternary = red: #ff194c (255, 25, 76)
 * background = near black: #181818 (24, 24, 24)
 
-primary: constants, editor, operators
-secondary: keywords
-tertiary: strings
-quaternary: comments
+primary: constants, editor, operators  
+secondary: keywords  
+tertiary: strings  
+quaternary: comments  
