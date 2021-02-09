@@ -49,7 +49,7 @@
 * quaternary = red: #ff194c (255, 25, 76)
 * background = near black: #181818 (24, 24, 24)
 
-primary: constants, editor, operators  
-secondary: keywords  
+primary: constants, editor  
+secondary: keywords, operators  
 tertiary: strings  
 quaternary: comments  

@@ -69,7 +69,7 @@ Global Options > Code Display > Show whitespace characters. */
 This value will override the settings in the .ace_keyword block for operators, if set. */
 .ace_keyword.ace_operator {
   /*color: #f61b1b; /* original color = bright red */
-  color: #ffff00; /* AJD - yellow */
+  color: #ff0000; /* AJD - red */
 }
 
 /* Changes the color and style of metadata tags in RMarkdown documents, like title and output. */
