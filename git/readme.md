@@ -56,7 +56,7 @@ that is where you can opt to receive notifications via email or the web interfac
   * Watch: you'll receive all notifications (new issues, pull requests, or comments, issues closed, pull requests merged)  
   * Not watching: won't receive notifications unless you're @-mentioned  
   * Ignore: won't receive any notifications  
-starring* a repository adds it a list of favorites (think bookmarks), you won't get notifications  
+*starring* a repository adds it a list of favorites (think bookmarks), you won't get notifications  
 under Profile > *Explore*, you can see the full range of what GitHub has to offer and find new projects  
 
   1. Turn on [GitHub Pages](https://pages.github.com/)  
@@ -69,16 +69,60 @@ the site is now visible to the public at <https://adilw893.github.io/github-slid
 since tasks in the issue have been completed, now you can close the issue (with the 'Close issue' button)
 
   1. Create a branch  
+The [GitHub Flow](https://www.youtube.com/watch?v=PBI2Rz-ZOxU)  
+create a branch off of the `master` or `main` (canonical) branch  
+a *branch* is a parallel version of a repository, separating your work and allowing you to work freely without disrupting the 'live' version  
+your new branch (a 'feature' branch) will look exactly like `master` at first, but then any changes you make will only be reflected in this branch  
+when you make file changes, you'll commit those files to the feature branch  
+then open a *pull request* for your branch (a request to merge), allowing for discussion and review  
+think of the pull request as a starting point, not necessarily a finished product  
+when ready and changes are approved, the feature branch can be merged into the master branch  
+*merging* takes changes from one branch (feature) and applies them to another (`main`)
+to keep branches organized, keep them concise and short-lived (i.e., focus on only a single feature or bug fix)  
+
   1. Commit a file  
+
+when finished creating or editing a file, then you can *commit* the file  
+use a commit message to briefly indicate the changes  
+commit message best practices:
+* don't end it with a period
+* keep it brief (you can use the extended description box for more detail if necessary)
+* use active voice (e.g., 'add' instead of 'added')
+
   1. Open a pull request  
+
+once you've made a commit (or more), you can share your proposed changes with a *pull request*  
+issues encourage discussion and collaboration, whereas pull requests help share changes, deliver feedback, and iterate until approval  
+[Creating Pull Requests](https://www.youtube.com/watch?v=kJr-PIfLDl4&feature=youtu.be)  
+a pull request introduces an action that addresses an issue  
+it is considered a work in progress until it is merged into the project  
+add commentary explaining why you're proposing the changes and reference specific issues with the `#` sign  
+the *diff* view shows file changes (red indicates removals, green indicates additions)  
+if something needs to be changed in the *diff* view, click on a line number to add a *line comment*  
+you can also add more general comments to the conversation like in issues  
+pull requests typically require sign-off from someone before merging into the main branch  
+when creating a new pull request, make sure the `base` and `compare` branches are selected appropriately in the dropdown menus  
+
   1. Respond to a review  
+
+review the 'Files Changed' tab to see the diffs  
+from there you can navigate to edit files and then make new commits  
+
   1. Merge your pull request  
+
+once the pull request has successfully passed review, merge the pull request  
+and since the branch has been merged, it is no longer needed and should be deleted  
+
+
 
 projects used:  
 [reveal.js](https://github.com/hakimel/reveal.js): a framework for creating presentations using HTML  
 [Jekyll](https://github.com/jekyll/jekyll): a simple, blog-aware, static site generator  
 
 1. [Git Handbook](https://guides.github.com/introduction/git-handbook/)  
+
+
+
 1. Communicating using Markdown  
 1. Uploading your project to GitHub  
 
@@ -131,7 +175,7 @@ projects used:
 
 - [ ] **[Hello World](https://guides.github.com/activities/hello-world/)**
 - [ ] [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
-- [ ] [Git Handbook](https://guides.github.com/introduction/git-handbook/): part of 'First Day on GitHub' learning path
+- [x] [Git Handbook](https://guides.github.com/introduction/git-handbook/): part of 'First Day on GitHub' learning path
 - [ ] [Forking Projects](https://guides.github.com/activities/forking/)
 - [ ] [Be Social](https://guides.github.com/activities/socialize/)
 - [ ] [Making Your Code Citable](https://guides.github.com/activities/citable-code/)
