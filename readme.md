@@ -5,36 +5,39 @@
 ## Current priorities
 
 1. **finish what you've started:**
-  - **read The Pragmatic Programmer (PDF: ch 7, 8)**
-  - **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
+- **read The Pragmatic Programmer (PDF: ch 7, 8)**
+- **Coursera - Neural Networks & Deep Learning (wk 3, 4)**
 1. learn to use [GitHub](./git)
-  - **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
-  - [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
-  - continue practicing and playing around, just use it
+- **[First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)**
+- [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
+- continue practicing and playing around, just use it
 1. master [Markdown](./markdown) basics
-  - read [John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/)
-  - read [GFM](https://github.github.com/gfm/) specs
-  - read [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/) book
-  - continue practicing and playing around, just use it
+- **read [GFM](https://github.github.com/gfm/) specs**
+- read [John Gruber's Markdown documentation](https://daringfireball.net/projects/markdown/)
+- read [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/) book
+- continue practicing and playing around, just use it
 1. learn more about [data visualization](./data-visualization) in general
-  - **read The Visual Display of Quantitative Information (PDF)**
+- **read The Visual Display of Quantitative Information (PDF)**
 1. [writing](./writing) refresher
-  - **read The Elements of Style (PDF)**
+- **read The Elements of Style (PDF)**
 
 ---
 
 ## Machine Learning
+
 ### Cloud Computing
 - Azure
 - AWS
 - Apache Spark
 - Databricks
+
 ### Deep Learning / Neural Networks
 - General
 - PyTorch
 - TensorFlow?
 - Theano?
 - an R implementation? Keras???
+
 ### Reinforcement Learning
 ### Natural Language Processing (NLP)
 ### Other Machine Learning Algorithms
@@ -57,14 +60,19 @@
 ---
 
 ## Computer Programming
+
 ### [General](./computer-programming)
+
 ### [R](./r-programming)
+
 ### [Python](./python)
 - numpy
 - pandas
 - scikit-learn
+
 ### [Git](./git)
 - GitHub
+
 ### [Markdown](./markdown)
 
 ---
@@ -80,14 +88,17 @@
 ### [Writing](./writing)
 ### Speaking
 - Toastmasters?
+
 ### Project Management
 - hard copy book
+
 ### Vocabulary
 ### Speed-reading?
 ### Presentations
 ### Productivity / Time Management
 ### Consultative Selling
 - PACE
+
 ### Negotiations
 - Influence book
 
@@ -101,6 +112,7 @@
 - **Drops**
 - podcasts
 - Ecco textbook
+
 ### [Russian](./foreign-languages/russian)
 ### [Irish](./foreign-languages/irish)
 
@@ -110,14 +122,14 @@
 
 ---
 
-## Sports Analytics
-### Baseball
+## [Sports Analytics](./sports-analytics)
+### [Baseball](./sports-analytics/baseball)
 - Jonathan Judge articles
 - FanGraphs
 - Baseball Prospectus
 - books in my library
 
-### Football
+### [Football](./sports-analytics/football)
 - PFF
-- football outsiders
+- Football Outsiders
 - new R packages

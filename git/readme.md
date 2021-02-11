@@ -1,6 +1,16 @@
 # Git and GitHub resources
 
+---
+
 *Focus on GitHub for now, not necessarily Git...*  
+
+## Projects / use cases
+
+- [ ] make repos for my various projects (baseball, fantasy football, educational tracking, etc.)
+- [ ] create presentations using [reveal.js](https://revealjs.com/) - see my [github-slideshow repo](https://github.com/adilw893/github-slideshow)
+- [ ] create website via [GitHub Pages](https://pages.github.com/) / [Jekyll][jek]
+
+---
 
 ## Links
 
@@ -164,6 +174,9 @@ there are two primary ways people collaborate on GitHub:
   then work in a fork can be surface back to the original project via a pull request, and maintainers can review and merge the suggested changes  
 
 1. Communicating using Markdown  
+
+
+
 1. Uploading your project to GitHub  
 
 - [ ] [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)

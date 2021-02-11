@@ -5,7 +5,8 @@
 ### Jonathan Judge
 
 #### 2021
-- [ ] [Introducting PECOTA 2021: Short Seasons, Variance, and Collaboration](https://www.baseballprospectus.com/news/article/64332/pecota-2021-short-seasons-variance-and-collaboration/)
+- [ ] [An Updated System of Park Factors (and Volatility)](https://www.baseballprospectus.com/news/article/64534/an-updated-system-of-park-factors-and-volatility/)
+- [ ] [Introducing PECOTA 2021: Short Seasons, Variance, and Collaboration](https://www.baseballprospectus.com/news/article/64332/pecota-2021-short-seasons-variance-and-collaboration/)
 
 #### 2020
 - [ ] [2020 Cy Young Awards: The Problem of Opponent Quality](https://www.baseballprospectus.com/news/article/62195/cy-young-awards-in-2020-the-problem-of-opponent-quality/)
@@ -16,9 +17,9 @@
 
 #### 2019
 
-### Baseball Prospectus
+### [Baseball Prospectus](https://www.baseballprospectus.com/)
 
-### FanGraphs
+### [FanGraphs](https://www.fangraphs.com/)
 
 ### FiveThirtyEight
 
