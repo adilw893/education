@@ -5,10 +5,10 @@
 - [x] Iron Man (dark)
 - [x] Halloween (dark)
 - [x] Batman (dark)
-- [ ] Ireland / St. Patrick's Day (light: green, green, green, orange) - *download a light tsTheme and convert to rsTheme*
-- [ ] Milwaukee Brewers (light: navy blue, gold, white, royal blue, green (grass)) [link](https://sportsfancovers.com/mlb-team-colors/milwaukee-brewers-team-colors/)
+- [x] Fantasy (light, think Zelda / Lord of the Rings)
+- [ ] **Ireland / St. Patrick's Day (light: green, green, green, orange)**
+- [ ] **Milwaukee Brewers** (light: navy blue, gold, white, royal blue, green (grass)) [link](https://sportsfancovers.com/mlb-team-colors/milwaukee-brewers-team-colors/)
 - [ ] Green Bay Packers (light: dark green, gold, white, brown (football)) [link](https://sportsfancovers.com/nfl-team-colors/green-bay-packers-team-colors/)
-- [ ] Zelda / Lord of the Rings (light: green, tan, brown, yellow, sepia background)
 - [ ] Phoenix (red, orange, yellow, white)
 - [ ] Christmas (red, green, white)
 - [ ] Iron Man (light)
@@ -48,6 +48,14 @@
 * tertiary = green: #19ff4c (25, 255, 76)
 * quaternary = red: #ff194c (255, 25, 76)
 * background = near black: #181818 (24, 24, 24)
+
+
+**Fantasy**
+* primary = forest green: #228b22 (34, 139, 34)
+* secondary = brown: #6e6036 (110, 96, 54)
+* tertiary = robins egg blue: #00b2b2 (0, 178, 178)
+* quaternary = olive: #808000 (128, 128, 0)
+* background = sepia: #d0c4a0 (208, 196, 160)
 
 primary: constants, editor  
 secondary: keywords, operators  
