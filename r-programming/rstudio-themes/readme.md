@@ -2,18 +2,31 @@
 
 ## Ideas
 
-- [x] Iron Man (dark)
-- [x] Halloween (dark)
+### Heroes
 - [x] Batman (dark)
-- [x] Fantasy (light, think Zelda / Lord of the Rings)
-- [ ] **Ireland / St. Patrick's Day (light: green, green, green, orange)**
+- [x] Fantasy (light, think Lord of the Rings / Zelda)
+- [x] Iron Man (dark)
+- [ ] Phoenix (light: red, orange, yellow, white)
+
+### Holidays
+- [ ] Valentine's Day (light: shades of red, white, pink background)
+- [ ] **Ireland / St. Patrick's Day (light: shades of green, orange, light green background)**
+- [x] Halloween (dark)
+- [ ] Christmas (red, green, white)
+
+### Sports
 - [ ] **Milwaukee Brewers** (light: navy blue, gold, white, royal blue, green (grass)) [link](https://sportsfancovers.com/mlb-team-colors/milwaukee-brewers-team-colors/)
 - [ ] Green Bay Packers (light: dark green, gold, white, brown (football)) [link](https://sportsfancovers.com/nfl-team-colors/green-bay-packers-team-colors/)
-- [ ] Phoenix (red, orange, yellow, white)
-- [ ] Christmas (red, green, white)
+- [ ] Milwaukee Bucks
+- [ ] Wisconsin Badgers
+- [ ] UWSP
+- [ ] Greendale Panthers
+
+### Alternate Dark/Light
 - [ ] Iron Man (light)
 - [ ] Halloween (light)
 - [ ] Batman (light?)
+- [ ] Fantasy (dark)
 
 ---
 
@@ -23,6 +36,7 @@
 - [ ] [Chrome theme editor](https://www.themebeta.com/chrome-theme-creator-online.html)
 - [ ] [Gradient to Image Maker](https://angrytools.com/gradient/image/): use to save gradient images for themes (e.g., Chrome toolbar images)
 - [ ] [RGB to Hex Color](https://www.rgbtohex.net/rgb/): conversion tool that is also useful for darkening, desaturating, and showing related/complementary colors
+- [ ] [Color-Hex Color Codes](https://www.color-hex.com/): conversion tool
 
 ## Colors
 
@@ -48,7 +62,6 @@
 * tertiary = green: #19ff4c (25, 255, 76)
 * quaternary = red: #ff194c (255, 25, 76)
 * background = near black: #181818 (24, 24, 24)
-
 
 **Fantasy**
 * primary = forest green: #228b22 (34, 139, 34)
